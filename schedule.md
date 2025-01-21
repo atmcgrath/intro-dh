@@ -1,5 +1,8 @@
-# Course schedule
+---
+layout: default
+---
 
+# Course schedule
 
 ## Week 1: What is Digital Humanities?
 
