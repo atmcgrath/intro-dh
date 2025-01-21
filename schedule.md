@@ -29,7 +29,7 @@
 
 **Response due Monday 1/27:** "Hello World" (see [moodle forum](https://moodle.brynmawr.edu/mod/forum/discuss.php?d=67411))
 
-### Tuesday, January 28:The command line
+### Tuesday, January 28: The command line
 - Readings:
 	- Meredith Broussard, "Hello, Reader", and "Hello, World" from *Artificial Unintelligence* (MIT: 2018). (30 pp)
 	- Jane Austen, "Lady Susan", Letters I-XIV
@@ -40,7 +40,7 @@
 ### Thursday, January 30: Introduction to Python
 - Readings:
 	- Jane Austen, "Lady Susan", Letters XV - XXX
-	-  David C. Zentgraf, [character encoding](http://kunststube.net/encoding/): (blog post)
+	- David C. Zentgraf, [character encoding](http://kunststube.net/encoding/): (blog post)
 - In class:
 	- Python workshop: Melanie Walsh, [Programming in Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/00-Python.html)
 
