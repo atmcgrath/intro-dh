@@ -1,8 +1,10 @@
 # Syllabus
 
-## Week 1: What is Digital Humanities?
+## Course schedule
 
-### Tuesday, January 21: Defining DH
+### Week 1: What is Digital Humanities?
+
+#### Tuesday, January 21: Defining DH
 
 - In class:
 	- Digital Humanities definitions and examples
@@ -12,23 +14,23 @@
 	- Sign up for a GitHub account and apply for the developer pack
 	- Install VS Code text editor on your personal laptop
 
-**Response due Wednesday 1/22: Introduce yourself**
+**Response due Wednesday 1/22: Introduce yourself** in the [forum on moodle](https://moodle.brynmawr.edu/mod/forum/view.php?id=351403)
 
-### Thursday, January 23: Digital humanities projects
+#### Thursday, January 23: Digital humanities projects
 - Readings:
 	- Miriam Posner, "How Did They Make That? Reverse-Engineering Digital Projects" ([video](https://miriamposner.com/blog/how-did-they-make-that-the-video/)) (40 min)
-	- Kirschenbaum, Matt "[What Is Digital Humanities](https://mkirschenbaum.wordpress.com/wp-content/uploads/2011/03/ade-final.pdf)" (2011)  (7 pages)
+	- Kirschenbaum, Matt ["What Is Digital Humanities"](https://mkirschenbaum.wordpress.com/wp-content/uploads/2011/03/ade-final.pdf) (2011)  (7 pages)
 	- Explore [Digital Humanities definition generator](https://whatisdigitalhumanities.com/) definition generator
 - In class:
 	- Project analysis activity and discussion
 	- Introduce project review assignment (due 1/29)
 	- Quick introduction to [Markdown](https://www.markdownguide.org/getting-started/) and GitHub
 
-## Week 2: Computational Thinking
+### Week 2: Computational Thinking
 
-**Response, due Monday 1/27:** Complete the "Hello World" exercise described by Broussard and reflect on the exercise and the reading in a post of 200-300 words.
+**Response due Monday 1/27:** "Hello World" (see [moodle forum](https://moodle.brynmawr.edu/mod/forum/view.php?id=351403))
 
-### Tuesday, January 28:The command line
+#### Tuesday, January 28:The command line
 - Readings:
 	- Meredith Broussard, "Hello, Reader", and "Hello, World" from *Artificial Unintelligence* (MIT: 2018). (30 pp)
 	- Jane Austen, "Lady Susan", Letters I-XIV
@@ -39,16 +41,19 @@
 	- Discuss Broussard
 	- Plaintext vs. hypertext: structured data and why it matters
 	- Command line workshop
-### Project Review Assignment Due: 1/29
-### Thursday, January 30: Introduction to Python
+
+#### Project Review Assignment Due: 1/29
+
+#### Thursday, January 30: Introduction to Python
 - Readings:
 	- Jane Austen, "Lady Susan", Letters XV - XXX
 	-  David C. Zentgraf, [character encoding](http://kunststube.net/encoding/): (blog post)
 - In class:
 	- Python workshop: Melanie Walsh, [Programming in Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/00-Python.html)
 
-## Wk 3: The Internet
-### Tuesday, February 4: Hyper Text Markup Language
+### Week 3: The Internet
+
+#### Tuesday, February 4: Hyper Text Markup Language
 
 - Readings:
 	- Jane Austen, "Lady Susan," Letters XXXI - Conclusion
@@ -61,7 +66,8 @@
 - Homework:
 	- Finish HTML workshop
 	- Sign up for a Domain of One's Own account: digital.brynmawr.edu
-### Thursday, February 6: Design and Access
+
+#### Thursday, February 6: Design and Access
 
 - Readings
 	- "Introduction to Web Accessibility", [WebAIM](https://webaim.org/intro/)
@@ -73,20 +79,19 @@
 - In class:
 	- Discussion: responsiveness and accessibility
 	- Web accessibility testing exercise
-- **Response: Due Friday, February 7**
 
-## Wk 4: DH, Activism, and Community Engagement
+### Week 4: DH, Activism, and Community Engagement
 
-### Tuesday, February 11: Digital justice
+#### Tuesday, February 11: Digital justice
 - Readings
 	- "Introduction: The Postcolonial Digital Cultural Record", Roopika Risam
 	- Jessica Marie Johnson, "Markup Bodies"
 - In class:
 	- Discussion of the readings
 
-### **Simple Website Assignment due February 12**
+#### **Simple Website Assignment due February 12**
 
-### Thursday, February 13: Crowd-sourcing
+#### Thursday, February 13: Crowd-sourcing
 
 - Readings:
 	- Colored Conventions Project: about, Project principles, other selections
@@ -97,9 +102,9 @@
 	- Participate in Douglass Day
 	- Find something fun to post for your response
 
-## Wk 5: Data basics
+### Week 5: Data basics
 
-### Tuesday, February 18: Data forms
+#### Tuesday, February 18: Data forms
 
 - Readings
 	- "What gets Counted Counts", from *Data Feminisms*
@@ -108,16 +113,16 @@
 	- Data cleaning in OpenRefine workshop
 	- WTF CSV? Using existing data
 
-### Thursday, February 20 - Data curation
+#### Thursday, February 20: Data curation
 
 - Readings
 	- Katie Rawson and Trevor Munoz, "[Against Cleaning](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/07154de9-4903-428e-9c61-7a92a6f22e51)" (Debates in DH 2019)
 - In class
-	- Dataset curation activity (using war rumors? Something else?)
+	- Dataset curation activity
 
-## Week 6:  Data visualization
+### Week 6:  Data visualization
 
-### Tuesday February 25 - Data stories
+#### Tuesday February 25: Data stories
 - Readings
 	- Data Humanism Manifesto, Giorgia Lupi
 	- ["Introduction: A Counterhistory of Data Visualization"](https://dataxdesign.io/chapters/intro), from [*Data by Design*](https://dataxdesign.io/), Klein, Sharma, et. al  
@@ -126,19 +131,20 @@
 	- Discussion of readings
 	- Data viz analysis exercise
 
-### Thursday, February 27 - Visualizing data
+#### Thursday, February 27: Visualizing data
 
 - Readings
 	- Responsible Datasets in Context: [National Park Visits](https://www.responsible-datasets-in-context.com/posts/np-data/)
 	- Scott Weingart, [Demystifying Networks](https://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/)
 	- Reading from *[Hands-on Data Visualization](https://handsondataviz.org/)*, Jack Dougherty & Ilya Ilyankou
 - In class
-	- Data storytelling workshop (using Data Basic? Data Wrapper?) 
+	- Data storytelling workshop
 
-### **Statement of Interest due February 28**
-## Week 7: Text analysis
+#### **Statement of Interest due February 28**
 
-### Tuesday, March 4: Computational humanities
+### Week 7: Text analysis
+
+#### Tuesday, March 4: Computational humanities
 - Readings
 	- Jo Guldi, from *The dangerous art of text mining: a methodology for digital history*, (Cambridge: 2023). (Moodle)
 	- *Enumerations*, Andrew Piper (Moodle)
@@ -146,32 +152,32 @@
 	- Discussion of readings
 	- Introduction to concepts and methods (Constellate tutorials)
 
-### Thursday, March 6: Methods of text mining
+#### Thursday, March 6: Methods of text mining
 - Readings
 	- Ted Underwood: 7 Ways Humanists... [internet archive version](https://web.archive.org/web/20210124055444/https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/)
 - In class
-	- Voyant workshop
-	- Constellate tutorials 
+	- Voyant & Constellate tutorials
 
-## Week 8: Mapping
+### Week 8: Mapping
 
-### Tuesday, March 18 - Map forms
+#### Tuesday, March 18: Map forms
 - Readings:
 	- R. White, "What Is Spatial History?", *Spatial History Lab* (Stanford 2010)
 	- Goffe, "Unmapping the Carribbean"
 - In class:
 	- Discussion of readings
 	- Map georeferencing activity or storymap activity
-### Thursday, March 20: Web mapping
+#### Thursday, March 20: Web mapping
 - Readings:
 	- ["Anatomy of a Web Map"](https://maptime.io/anatomy-of-a-web-map/#0)by Alan McConchie and Beth Schechter (click through slide show).
 - In class:
 	- ArcMap tutorial: [Cartographic creations](https://learn.arcgis.com/en/paths/cartographic-creations-with-web-maps/) - Customize a basemap (and, maybe) Make pop-ups and labels
-### Data story due March 21
 
-## Week 9: Digital Archives & Exhibits
+#### Data story due March 21
 
-### Tuesday, March 25: Digital Exhibits
+### Week 9: Digital Archives & Exhibits
+
+#### Tuesday, March 25: Digital Exhibits
 - Readings:
 	- Explore: [Queer Digital History Project](https://queerdigital.com/)
 	- Explore:  "Genoa Indian School Digital Reconciliation Project", [DH Review link](https://reviewsindh.pubpub.org/pub/genoa-indian-school-digital-reconciliation-project/release/1) and [Project link](https://genoaindianschool.org/) 
@@ -179,39 +185,37 @@
 - In class
 	- Metadata & digital exhibit lecture
 
-### Thursday, March 27: CollectionBuilder
+#### Thursday, March 27: CollectionBuilder
 - Readings:
 	- CollectionBuilder documentation: ["About CollectionBuilder"](https://collectionbuilder.github.io/about.html#general)
 	- Explore CB examples: https://collectionbuilder.github.io/cb-examples/ - click through the pages of this site and look at one or more sites in the collection
 - In class
 	- Collection Builder workshop
 
-## Week 10: Linked Open Data
+### Week 10: Linked Open Data
 
-### Tuesday, April 1: Linked Open Data
+#### Tuesday, April 1: Principles of LOD
 - Readings:
 	- [Editor's Note: May 2024](https://reviewsindh.pubpub.org/pub/editors-note-may-2024/release/5),  *Reviews in Digital Humanities* issue on Linked open Data, Roopika Risam, Jennifer Guiliano, Kim Martin, and Terhi Nurmikko-Fuller
-	- 5-Star Data principles: https://5stardata.info/en/ & "[Linked Data](https://www.w3.org/DesignIssues/LinkedData.html)" by Tim Berners-Lee 
-	- Review of "Enslaved": https://reviewsindh.pubpub.org/pub/enslaved/release/1
-		- Look at Enslaved - https://enslaved.org/about/ and check out 1-2 stories
+	- Browse [5-Star Data principles](https://5stardata.info/en/)
+	- Optional: Tim Berners-Lee, ["Linked Data"](https://www.w3.org/DesignIssues/LinkedData.html) (2006-07-27)
+	- Explore ["Enslaved" project](https://enslaved.org/about/) and read [Review](https://reviewsindh.pubpub.org/pub/enslaved/release/1); explore 1-2 stories
 	- Review of "World Historical Gazeteer": https://reviewsindh.pubpub.org/pub/world-historical-gazetteer/release/1
 - In class
 	- Discussion of LOD principles, projects & readings
-	- SNAC project
-	- APIs
 
-### Thursday, April 3: Wikidata
+#### Thursday, April 3: Wikidata
 - Readings:
 	- ["Wikidata:Introduction"](https://www.wikidata.org/wiki/Wikidata:Introduction), wikidata.org
 - In class:
 	- SPARQL Wikidata query workshop
 	- Maybe: [Wikidata Query Service Tutorial](https://wdqs-tutorial.toolforge.org/) by Wikimedia Israel
 
-### Visual Essay due April 4
+#### Visual Essay due April 4
 
-## Week 11: LLMs and Generative AI
+### Week 11: LLMs and Generative AI
 
-### Tuesday, April 8 - LLMs
+#### Tuesday, April 8: LLMs
 - Readings:
 	- Madhumita Murgia and the Financial Times Visual Storytelling Team ["Generative AI exists because of the transformer"](https://ig.ft.com/generative-ai/) *Financial Times*, Sept. 12, 2023.
 	- Bender, Emily M., et al. “On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜.” _Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency_, Association for Computing Machinery, 2021, pp. 610–23. _ACM Digital Library_, [https://doi.org/10.1145/3442188.3445922](https://doi.org/10.1145/3442188.3445922).
@@ -219,51 +223,55 @@
 - In class
 	- Discussion of LLMs and AI readings
 
-### Thursday, April 10 - Generative AI
+#### Thursday, April 10: Generative AI
 - Readings
 	- Find a recent article on AI and share with the team
 - In class
 	- Activity involving LLMs or AI
 
 
-## Week 12: Critical Making & Creative Coding
+### Week 12: Critical Making & Creative Coding
 
-### Tuesday, April 15: Critical making
+#### Tuesday, April 15: Critical making
 - Reading:
 	- [Thinking as Handwork: Critical Making with Humanistic Concerns](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/4b5fd8b4-2a39-4d7a-a563-3e611da220f0#annotation-a5b02b3d-dcd3-4b9b-b307-0e78da5ec40c)by Gabby Resch, Dan Southwick, Isaac Record, and Matt Ratto
 - In class
 	- Making activity
 
-### Thursday, April 17: Creative coding
+#### Thursday, April 17: Creative coding
 - Reading:
 	- Un/tied - read [review from *Reviews in DH*](https://reviewsindh.pubpub.org/pub/untied/release/1) and explore project:  https://www.untied.shoes/
 - In class
 	- Bitsy workshop
-### Optional: Revised proposal due Friday, April 18 or Tuesday, April 22
-## Week 13: 3D Modeling
 
-### Tuesday, April 22: 3D data
+#### Optional: Revised proposal due Friday, April 18 or Tuesday, April 22
+
+### Week 13: 3D Modeling
+
+#### Tuesday, April 22: 3D data
 - Reading
 	- ["Towards 3D Scholarly Editions"](http://digitalhumanities.org:8081/dhq/vol/13/1/000415/000415.html) Papdopoulos, Costas, and Susan Schreibman. Digital Humanities Quarterly 2019.
 - In class
 	- Ilizst Castillo, presentation on mirror work
 	- Look at MorphoSource models
-### Thursday, April 24: 3D models
+
+#### Thursday, April 24: 3D models
 - Reading
 	- TBD
 - In class
 	- 3D modeling workshop
-## Week 14: Review and presentations
 
-### Tuesday, April 29: Project work
+### Week 14: Review and presentations
+
+#### Tuesday, April 29: Project work
 - In class:
 	- Work on final projects and portfolios
 
-### Thursday, May 1: Presentations
+#### Thursday, May 1: Presentations
 - In class
 	- Individual presentations on final project
 
-### Portfolio reflections and revisions due Friday, May 2
+#### Portfolio reflections and revisions due Friday, May 2
 
-### Final project due May 7
+#### Final project due May 7
 
