@@ -1,6 +1,6 @@
 # Syllabus
 
-## Course schedule
+## Schedule
 
 ### Week 1: What is Digital Humanities?
 
@@ -9,10 +9,6 @@
 - In class:
 	- Digital Humanities definitions and examples
 	- Go over the syllabus
-- Tasks:
-	- Review the syllabus and return on Thursday with questions
-	- Sign up for a GitHub account and apply for the developer pack
-	- Install VS Code text editor on your personal laptop
 
 **Response due Wednesday 1/22: Introduce yourself** in the [forum on moodle](https://moodle.brynmawr.edu/mod/forum/view.php?id=351403)
 
@@ -23,8 +19,12 @@
 	- Explore [Digital Humanities definition generator](https://whatisdigitalhumanities.com/) definition generator
 - In class:
 	- Project analysis activity and discussion
-	- Introduce project review assignment (due 1/29)
+	- Introduce project review assignment (due 1/31)
 	- Quick introduction to [Markdown](https://www.markdownguide.org/getting-started/) and GitHub
+- Tasks:
+	- Sign up for a GitHub account and apply for the developer pack
+	- Install VS Code text editor on your laptop
+	- Install GitBash
 
 ### Week 2: Computational Thinking
 
@@ -35,14 +35,8 @@
 	- Meredith Broussard, "Hello, Reader", and "Hello, World" from *Artificial Unintelligence* (MIT: 2018). (30 pp)
 	- Jane Austen, "Lady Susan", Letters I-XIV
 	- Command line workshop: "Introduction to the Command Line" tutorial, through "Why is the command line Useful"
-- Before class:
-	- Install GitBash (if needed)
 - In class:
-	- Discuss Broussard
-	- Plaintext vs. hypertext: structured data and why it matters
-	- Command line workshop
-
-#### Project Review Assignment Due: 1/29
+	- Discussion, command line workshop
 
 #### Thursday, January 30: Introduction to Python
 - Readings:
@@ -51,7 +45,11 @@
 - In class:
 	- Python workshop: Melanie Walsh, [Programming in Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/00-Python.html)
 
+#### Project Review Assignment Due: 1/31
+
 ### Week 3: The Internet
+
+**Response due Monday 2/3**
 
 #### Tuesday, February 4: Hyper Text Markup Language
 
@@ -63,9 +61,6 @@
 	- Discussion of Lady Susan
 	- Text Markup/HTML activity
 	- HTML  +  CSS workshop
-- Homework:
-	- Finish HTML workshop
-	- Sign up for a Domain of One's Own account: digital.brynmawr.edu
 
 #### Thursday, February 6: Design and Access
 
@@ -74,8 +69,7 @@
 	- ["How to build a low-tech website"](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-low-tech-website/), *Low-tech Magazine* 2018.
 		- Optional: ["How to build a low-tech internet"](https://solar.lowtechmagazine.com/2015/10/how-to-build-a-low-tech-internet/)
 - Homework:
-	- Complete CSS workshop
-	- Deploy your site using the [File Manager](https://askathena.brynmawr.edu/help/domain-of-ones-own-manage-files) on Domain of One's Own (include both HTML and CSS files in your upload)
+	- Deploy your site using the [File Manager](https://askathena.brynmawr.edu/help/domain-of-ones-own-manage-files) on Domain of One's Own or using GitHub Pages (include both HTML and CSS files in your upload)
 - In class:
 	- Discussion: responsiveness and accessibility
 	- Web accessibility testing exercise
@@ -111,7 +105,6 @@
 	- [Philadelphia African American Census 1847](https://ds-pages.swarthmore.edu/paac/)- read the "About" page, look at the scans
 - In class
 	- Data cleaning in OpenRefine workshop
-	- WTF CSV? Using existing data
 
 #### Thursday, February 20: Data curation
 
@@ -128,8 +121,7 @@
 	- ["Introduction: A Counterhistory of Data Visualization"](https://dataxdesign.io/chapters/intro), from [*Data by Design*](https://dataxdesign.io/), Klein, Sharma, et. al  
 	- Reading from *[Hands-on Data Visualization](https://handsondataviz.org/)*, Jack Dougherty & Ilya Ilyankou
 - In class
-	- Discussion of readings
-	- Data viz analysis exercise
+	- Discussion of readings; data visualization analysis exercise
 
 #### Thursday, February 27: Visualizing data
 
@@ -149,8 +141,7 @@
 	- Jo Guldi, from *The dangerous art of text mining: a methodology for digital history*, (Cambridge: 2023). (Moodle)
 	- *Enumerations*, Andrew Piper (Moodle)
 - In class
-	- Discussion of readings
-	- Introduction to concepts and methods (Constellate tutorials)
+	- Discussion of readings, introduction to concepts and methods (Constellate tutorials)
 
 #### Thursday, March 6: Methods of text mining
 - Readings
@@ -165,8 +156,7 @@
 	- R. White, "What Is Spatial History?", *Spatial History Lab* (Stanford 2010)
 	- Goffe, "Unmapping the Carribbean"
 - In class:
-	- Discussion of readings
-	- Map georeferencing activity or storymap activity
+	- Discussion of readings and projects
 #### Thursday, March 20: Web mapping
 - Readings:
 	- ["Anatomy of a Web Map"](https://maptime.io/anatomy-of-a-web-map/#0)by Alan McConchie and Beth Schechter (click through slide show).
@@ -203,6 +193,8 @@
 	- Review of "World Historical Gazeteer": https://reviewsindh.pubpub.org/pub/world-historical-gazetteer/release/1
 - In class
 	- Discussion of LOD principles, projects & readings
+	- SNAC project
+	- APIs
 
 #### Thursday, April 3: Wikidata
 - Readings:
@@ -251,9 +243,6 @@
 #### Tuesday, April 22: 3D data
 - Reading
 	- ["Towards 3D Scholarly Editions"](http://digitalhumanities.org:8081/dhq/vol/13/1/000415/000415.html) Papdopoulos, Costas, and Susan Schreibman. Digital Humanities Quarterly 2019.
-- In class
-	- Ilizst Castillo, presentation on mirror work
-	- Look at MorphoSource models
 
 #### Thursday, April 24: 3D models
 - Reading
@@ -271,7 +260,5 @@
 - In class
 	- Individual presentations on final project
 
-#### Portfolio reflections and revisions due Friday, May 2
-
-#### Final project due May 7
+#### Final project or portfolio due Friday, May 2
 

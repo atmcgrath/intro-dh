@@ -19,41 +19,6 @@ Through this course, you will:
 - Become familiar with a range of computational analysis and digital publication methods used for humanistic research
 - Develop frameworks for critical digital literacy and critical computing
 
-## **Course materials**
+[Course details](details.md)
 
-Note: all of these texts are available open access. Other materials will be made available via Moodle.
-
-- *Debates in the Digital Humanities 2023*, Matthew K. Gold and Lauren F. Klein, eds. (CUNY: 2023)
-- *The Digital Black Atlantic*, Roopika Risam and Kelly Baker Josephs, eds. (CUNY: 2021)
-- [Introduction to Cultural Analytics & Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html), Melanie Walsh, Version 1 (2021). 
-- *Data Feminism*, Catherine D'Ignazio and Lauren F. Klein (MIT: 2023)
-- *Artificial Unintelligence*, Meredith Broussard (MIT: 2018)
-
-
-## Course schedule
-
-- What is Digital Humanities? (weeks 1-2)
-	- Intro to course and to Digital Humanities
-	- Miriam Posner, “How did they make that?” 
-	- Computational thinking exercise/command line workshop (from Meredith Broussard, “Hello World”)
-	- *Assignment: write an analysis and review of an existing project*
-- Storytelling (weeks 3-6)
-	- History of the internet: plain text and hypertext
-	- Multi-modal materials & creative coding
-	- Ephemerality, sustainability, access
-	- *Assignment: Simple personal website*
-- Humanities data (weeks 7-9)
-	- Data curation and cleaning (data histories)
-	- Counting words: text data mining
-	- Data storytelling
-    - Generative AI & LLMs
-	- *Assignment: data “story” featuring visualization and explanation*
-- Archives (weeks 10-13)
-	- Digital cultural heritage resources and Linked Open Data
-	- Media, immersion, and 3D modeling
-	- Exhibits, maps, and visual essays
-	- Speculative and missing archives
-	- *Assignment: Visual Essay featuring text and primary source materials*
-- Digital portfolios and individual presentations
-
-*NB: syllabus subject to change
+[Course schedule](schedule.md)
