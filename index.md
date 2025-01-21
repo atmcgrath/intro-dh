@@ -1,8 +1,10 @@
 # HIST 105B: Introduction to Digital Humanities
 
-[Alice McGrath](https://alicetmcgrath.com), Senior Digital Scholarship Specialist & Interim Director of Educational & Scholarly Technology
+Dr. [Alice McGrath](https://alicetmcgrath.com), Senior Digital Scholarship Specialist & Interim Director of Educational & Scholarly Technology
 
-T/Th 2:40-4:00 PM, OL 116
+Office Hours: Fridays 1-2:30 or by appointment; Carpenter A5
+
+Course: T/Th 2:40-4:00 PM, OL 116
 
 Bryn Mawr College, Spring 2025
 
