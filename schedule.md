@@ -26,7 +26,7 @@ layout: default
 - Tasks:
 	- Sign up for a [GitHub account](https://github.com/) and [sign up for the Student Developer Pack](https://education.github.com/pack)
 	- Install [VS Code text editor](https://code.visualstudio.com/) on your laptop
-	- Install GitBash
+	- Install git [following these instructions](https://collectionbuilder.github.io/cb-docs/docs/software/git/)
 
 ## Week 2: Computational Thinking
 
@@ -34,11 +34,13 @@ layout: default
 
 ### Tuesday, January 28: The command line
 - Readings:
-	- Meredith Broussard, "Hello, Reader", and "Hello, World" from *Artificial Unintelligence* (MIT: 2018). (30 pp)
-	- Jane Austen, "Lady Susan", Letters I-XIV
-	- Command line workshop: "Introduction to the Command Line" tutorial, through "Why is the command line Useful"
+	- Meredith Broussard, "Hello, Reader", and "Hello, World" from *Artificial Unintelligence: how computers misunderstand the world* (MIT: 2018). [Broussard chapters on Moodle](https://moodle.brynmawr.edu/course/view.php?id=7812#section-2) or [access the book via Tripod](https://www.gutenberg.org/cache/epub/946/pg946-images.html)
+	- Jane Austen, "Lady Susan", Letters I-XIV - [read on Project Gutenberg](https://www.gutenberg.org/ebooks/946)
+	- [Command line workshop](https://digbmc.github.io/command-line/): read "Introduction to the Command Line" tutorial, through "Why is the command line Useful"
+	- Watch: [1968 "Mother of All Demos" video](https://www.youtube.com/watch?v=B6rKUf9DWRI) (6 min.)
 - In class:
-	- Discussion, command line workshop
+	- Discussion
+    - [Command line tutorial](https://digbmc.github.io/command-line/)
 
 ### Thursday, January 30: Introduction to Python
 - Readings:
