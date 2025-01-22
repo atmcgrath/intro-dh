@@ -26,13 +26,14 @@ layout: default
 - Tasks:
 	- Sign up for a [GitHub account](https://github.com/) and [sign up for the Student Developer Pack](https://education.github.com/pack)
 	- Install [VS Code text editor](https://code.visualstudio.com/) on your laptop
-	- Install git [following these instructions](https://collectionbuilder.github.io/cb-docs/docs/software/git/)
+	- Install git [following these instructions](resources/installation.md)
 
 ## Week 2: Computational Thinking
 
 **Response due Monday 1/27:** "Hello World" (see [moodle forum](https://moodle.brynmawr.edu/mod/forum/discuss.php?d=67411))
 
 ### Tuesday, January 28: The command line
+
 - Readings:
 	- Meredith Broussard, "Hello, Reader", and "Hello, World" from *Artificial Unintelligence: how computers misunderstand the world* (MIT: 2018). [Broussard chapters on Moodle](https://moodle.brynmawr.edu/course/view.php?id=7812#section-2) or [access the book via Tripod](https://www.gutenberg.org/cache/epub/946/pg946-images.html)
 	- Jane Austen, "Lady Susan", Letters I-XIV - [read on Project Gutenberg](https://www.gutenberg.org/ebooks/946)
