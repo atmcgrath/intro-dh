@@ -62,6 +62,7 @@ layout: default
 	- Jane Austen, "Lady Susan," Letters XXXI - Conclusion
 	- Sasha Constanza-Chock, ["Design Values: Hard-Coding Liberation?"](https://designjustice.mitpress.mit.edu/pub/3h2zq86d/release/1). *Design Values* (MIT: 2020)
 	- Jo Jung, ["A Nostalgic Journey through the Evolution of Web Design"](https://theconversation.com/a-nostalgic-journey-through-the-evolution-of-web-design-98626), *The Conversation*
+	- Listen: ["Data Vampires: Going Hyperscale (Episode 1)"](https://techwontsave.us/episode/241_data_vampires_going_hyperscale_episode_1) from *Tech Won't Save Us* podcast
 - In class:
 	- Discussion of Lady Susan
 	- Text Markup/HTML activity
