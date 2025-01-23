@@ -6,6 +6,8 @@ layout: default
 
 ## Week 1: What is Digital Humanities?
 
+[Week 1 detail](wk/01.md)
+
 ### Tuesday, January 21: Defining DH
 
 - In class:
