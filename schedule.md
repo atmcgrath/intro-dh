@@ -21,7 +21,7 @@ layout: default
 	- Explore [Digital Humanities definition generator](https://whatisdigitalhumanities.com/) definition generator
 - In class:
 	- Project analysis activity and discussion
-	- Introduce project review assignment (due 1/31)
+	- Introduce [project review assignment](assignments/review.md) (due 1/31)
 	- Quick introduction to [Markdown](https://www.markdownguide.org/getting-started/) and GitHub
 - Tasks:
 	- Sign up for a [GitHub account](https://github.com/) and [sign up for the Student Developer Pack](https://education.github.com/pack)
@@ -50,7 +50,7 @@ layout: default
 - In class:
 	- Python workshop: Melanie Walsh, [Programming in Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/00-Python.html)
 
-### Project Review Assignment Due: 1/31
+### [Project Review Assignment](assignments/review.md) Due: Friday, January 31
 
 ## Week 3: The Internet
 
