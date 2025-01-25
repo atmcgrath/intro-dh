@@ -43,16 +43,18 @@ layout: default
 	- Watch: [1968 "Mother of All Demos" video](https://www.youtube.com/watch?v=B6rKUf9DWRI) (6 min.)
 - In class:
 	- Discussion
-    - [Command line tutorial](https://digbmc.github.io/command-line/)
+    - Command Line Workshop: ["The Command Line"](https://melaniewalsh.github.io/Intro-Cultural-Analytics/01-Command-Line/01-The-Command-Line.html#where-do-i-find-the-command-line) from *Introduction to Cultural Analytics* by Melanie Walsh.
 
 #### Thursday, January 30: Introduction to Python
 - Readings:
 	- Jane Austen, "Lady Susan", Letters XV - XXX
-	- David C. Zentgraf, [character encoding](http://kunststube.net/encoding/): (blog post)
+	- David C. Zentgraf, [character encoding blog post](http://kunststube.net/encoding/)
 - In class:
-	- Python workshop: Melanie Walsh, [Programming in Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/00-Python.html)
+	- Python workshop: ["Programming in Python"](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/00-Python.html), from *Introduction to Cultural Analytics* by Melanie Walsh
 
 #### [Project Review Assignment](assignments/review.md) Due: Friday, January 31
+
+[Submit via Moodle](https://moodle.brynmawr.edu/mod/assign/view.php?id=351406)
 
 ### Week 3: The Internet
 
@@ -68,7 +70,7 @@ layout: default
 - In class:
 	- Discussion of Lady Susan
 	- Text Markup/HTML activity
-	- HTML  +  CSS workshop
+	- HTML + CSS workshop
 
 #### Thursday, February 6: Design and Access
 
@@ -85,9 +87,10 @@ layout: default
 ### Week 4: DH, Activism, and Community Engagement
 
 #### Tuesday, February 11: Digital justice
-- Readings
-	- "Introduction: The Postcolonial Digital Cultural Record", Roopika Risam
-	- Jessica Marie Johnson, "Markup Bodies"
+
+- Readings (on Moodle)
+	- Roopika Risam, "Introduction: The Postcolonial Digital Cultural Record", from *New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy* (Northwestern UP, 2019)
+	- Jessica Marie Johnson, “Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads.” *Social Text*, vol. 36, no. 4 (137), Dec. 2018, pp. 57–79.
 - In class:
 	- Discussion of the readings
 
@@ -96,20 +99,22 @@ layout: default
 #### Thursday, February 13: Crowd-sourcing
 
 - Readings:
-	- Colored Conventions Project: about, Project principles, other selections
-	- ["The Power Chapter"](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/4), from *Data Feminisms*
+	- Explore the [Colored Conventions Project](https://coloredconventions.org/): about, Project principles, other selections
+	- Catherine D'Ignazio and Lauren F. Klein, ["The Power Chapter"](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/4), from *Data Feminism* (MIT 2020)
 - In class:
 	- Activity: citizen science, open access, open source
 - Homework:
-	- Participate in Douglass Day
+	- Participate in [Douglass Day](https://douglassday.org/)
 	- Find something fun to post for your response
 
 ### Week 5: Data basics
 
+**Response due Monday, February 17**: Douglass Day show-and-tell
+
 #### Tuesday, February 18: Data forms
 
 - Readings
-	- "What gets Counted Counts", from *Data Feminisms*
+	- D'Ignazio & Klein, ["What gets Counted Counts"](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/3?readingCollection=0cd867ef), from *Data Feminism*
 	- [Philadelphia African American Census 1847](https://ds-pages.swarthmore.edu/paac/)- read the "About" page, look at the scans
 - In class
 	- Data cleaning in OpenRefine workshop
@@ -117,17 +122,18 @@ layout: default
 #### Thursday, February 20: Data curation
 
 - Readings
-	- Katie Rawson and Trevor Munoz, "[Against Cleaning](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/07154de9-4903-428e-9c61-7a92a6f22e51)" (Debates in DH 2019)
+	- Katie Rawson and Trevor Munoz, ["Against Cleaning"](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/07154de9-4903-428e-9c61-7a92a6f22e51)" from *Debates in the Digital Humanities 2019* (U Minnesota Press).
 - In class
 	- Dataset curation activity
 
 ### Week 6:  Data visualization
 
+**Response due Monday**
+
 #### Tuesday February 25: Data stories
 - Readings
 	- Data Humanism Manifesto, Giorgia Lupi
 	- ["Introduction: A Counterhistory of Data Visualization"](https://dataxdesign.io/chapters/intro), from [*Data by Design*](https://dataxdesign.io/), Klein, Sharma, et. al  
-	- Reading from *[Hands-on Data Visualization](https://handsondataviz.org/)*, Jack Dougherty & Ilya Ilyankou
 - In class
 	- Discussion of readings; data visualization analysis exercise
 
@@ -145,6 +151,8 @@ For students interested in the final project option A.
 
 ### Week 7: Text analysis
 
+**Response due Monday**
+
 #### Tuesday, March 4: Computational humanities
 - Readings
 	- Jo Guldi, from *The dangerous art of text mining: a methodology for digital history*, (Cambridge: 2023). (Moodle)
@@ -159,6 +167,8 @@ For students interested in the final project option A.
 	- Voyant & Constellate tutorials
 
 ### Week 8: Mapping
+
+**Response due Monday**
 
 #### Tuesday, March 18: Map forms
 - Readings:
@@ -176,6 +186,8 @@ For students interested in the final project option A.
 
 ### Week 9: Digital Archives & Exhibits
 
+**Response due Monday**
+
 #### Tuesday, March 25: Digital Exhibits
 - Readings:
 	- Explore: [Queer Digital History Project](https://queerdigital.com/)
@@ -192,6 +204,8 @@ For students interested in the final project option A.
 	- Collection Builder workshop
 
 ### Week 10: Linked Open Data
+
+**Response due Monday**
 
 #### Tuesday, April 1: Principles of LOD
 - Readings:
@@ -216,6 +230,8 @@ For students interested in the final project option A.
 
 ### Week 11: LLMs and Generative AI
 
+**Response due Monday**
+
 #### Tuesday, April 8: LLMs
 - Readings:
 	- Madhumita Murgia and the Financial Times Visual Storytelling Team ["Generative AI exists because of the transformer"](https://ig.ft.com/generative-ai/) *Financial Times*, Sept. 12, 2023.
@@ -233,6 +249,8 @@ For students interested in the final project option A.
 
 ### Week 12: Critical Making & Creative Coding
 
+**Response due Monday**
+
 #### Tuesday, April 15: Critical making
 - Reading:
 	- [Thinking as Handwork: Critical Making with Humanistic Concerns](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/4b5fd8b4-2a39-4d7a-a563-3e611da220f0#annotation-a5b02b3d-dcd3-4b9b-b307-0e78da5ec40c)by Gabby Resch, Dan Southwick, Isaac Record, and Matt Ratto
@@ -249,6 +267,8 @@ For students interested in the final project option A.
 
 ### Week 13: 3D Modeling
 
+**Response due Monday**
+
 #### Tuesday, April 22: 3D data
 - Reading
 	- ["Towards 3D Scholarly Editions"](http://digitalhumanities.org:8081/dhq/vol/13/1/000415/000415.html) Papdopoulos, Costas, and Susan Schreibman. Digital Humanities Quarterly 2019.
@@ -260,6 +280,8 @@ For students interested in the final project option A.
 	- 3D modeling workshop
 
 ### Week 14: Review and presentations
+
+**Response due Monday**
 
 #### Tuesday, April 29: Project work
 - In class:
