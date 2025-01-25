@@ -1,4 +1,4 @@
-# HIST 105B: Introduction to Digital Humanities
+## HIST 105B: Introduction to Digital Humanities
 
 Dr. [Alice McGrath](https://alicetmcgrath.com), Senior Digital Scholarship Specialist & Interim Director of Educational & Scholarly Technology
 

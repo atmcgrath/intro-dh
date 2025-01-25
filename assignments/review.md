@@ -1,6 +1,4 @@
-# Project Review Assignment
-
-## Instructions
+## Project Review Assignment Instructions
 
 For this assignment, you will carefully review and analyze a digital humanities project in order to understand how it was created. Using the framework laid out in the [How Did They Make That video](https://miriamposner.com/blog/how-did-they-make-that-the-video/), write a review of 500-750 words describing and reflecting upon the project. Submit your assignment to Moodle by **Friday, January 31**.
 
@@ -39,3 +37,5 @@ You may also wish to address these questions:
 9. [Persepolis Reimagined](https://persepolis.getty.edu/)
 
 You may use a different project with permission of the instructor.
+
+[Moodle submission link](https://moodle.brynmawr.edu/mod/assign/view.php?id=351406)
