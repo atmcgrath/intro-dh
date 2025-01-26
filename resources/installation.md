@@ -14,6 +14,8 @@ Install [Git for Windows](https://git-scm.com/downloads) using the default optio
 
 Mac systems will require the “Xcode Command Line Tools” installed, which includes Git. Open a terminal (to find your terminal search for “terminal” in your Spotlight), type in the command `xcode-select --install`, and follow the prompts. After the install finishes, try typing `git --version`. (Optionally, if you want a newer version of Git, [check alternative Mac install methods](https://git-scm.com/downloads/mac))
 
+For additional instructions and context, you may find [this article helpful](https://www.junian.net/dev/xcode-command-line-tools-installation-faq/) -- it also includes a video demo.
+
 ### Linux:
 
 Open a terminal and try typing `git --version`. If Git is not already available, install from your distribution’s software center or package manager (for Ubuntu `sudo apt install git`), or check [alternative Linux install methods](https://git-scm.com/downloads/linux).
