@@ -48,7 +48,9 @@ layout: default
 #### Thursday, January 30: Introduction to Python
 - Readings:
 	- Jane Austen, "Lady Susan", Letters XV - XXX
-	- David C. Zentgraf, [character encoding blog post](http://kunststube.net/encoding/)
+	- A blog post on unicode/character encoding, either:
+    	- Kealan Parr, [Unicode Characters - What Every Developer Should Know about Encoding](https://www.freecodecamp.org/news/everything-you-need-to-know-about-encoding/)
+    	- David C. Zentgraf, [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](http://kunststube.net/encoding/) - stop at "Encodings and PHP"
 - In class:
 	- Python workshop: ["Programming in Python"](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/00-Python.html), from *Introduction to Cultural Analytics* by Melanie Walsh
 
