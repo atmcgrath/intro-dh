@@ -48,6 +48,7 @@ layout: default
     - Command Line Workshop: ["The Command Line"](https://melaniewalsh.github.io/Intro-Cultural-Analytics/01-Command-Line/01-The-Command-Line.html#where-do-i-find-the-command-line) from *Introduction to Cultural Analytics* by Melanie Walsh.
 
 #### Thursday, January 30: Introduction to Python
+
 - Readings:
 	- Jane Austen, "Lady Susan", Letters XV - XXX
 	- A blog post on unicode/character encoding, either:
@@ -69,7 +70,6 @@ layout: default
 - Readings:
 	- Jane Austen, "Lady Susan," Letters XXXI - Conclusion
 	- Sasha Constanza-Chock, ["Design Values: Hard-Coding Liberation?"](https://designjustice.mitpress.mit.edu/pub/3h2zq86d/release/1). *Design Values* (MIT: 2020)
-	- Jo Jung, ["A Nostalgic Journey through the Evolution of Web Design"](https://theconversation.com/a-nostalgic-journey-through-the-evolution-of-web-design-98626), *The Conversation*
 	- Listen: ["Data Vampires: Going Hyperscale (Episode 1)"](https://techwontsave.us/episode/241_data_vampires_going_hyperscale_episode_1) from *Tech Won't Save Us* podcast
 - In class:
 	- Discussion of Lady Susan
@@ -79,6 +79,7 @@ layout: default
 #### Thursday, February 6: Design and Access
 
 - Readings
+    - Jo Jung, ["A Nostalgic Journey through the Evolution of Web Design"](https://theconversation.com/a-nostalgic-journey-through-the-evolution-of-web-design-98626), *The Conversation*
 	- "Introduction to Web Accessibility", [WebAIM](https://webaim.org/intro/)
 	- ["How to build a low-tech website"](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-low-tech-website/), *Low-tech Magazine* 2018.
 		- Optional: ["How to build a low-tech internet"](https://solar.lowtechmagazine.com/2015/10/how-to-build-a-low-tech-internet/)
