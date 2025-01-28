@@ -32,6 +32,8 @@ layout: default
 
 ### Week 2: Computational Thinking
 
+[Week 2 detail](wk/02.md)
+
 **Response due Monday 1/27:** "Hello World" (see [moodle forum](https://moodle.brynmawr.edu/mod/forum/discuss.php?d=67411))
 
 #### Tuesday, January 28: The command line
