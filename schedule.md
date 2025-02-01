@@ -63,6 +63,8 @@ layout: default
 
 ### Week 3: The Internet
 
+[Week 3 detail](wk/03.md)
+
 **Response due Monday 2/3**
 
 #### Tuesday, February 4: Hyper Text Markup Language
