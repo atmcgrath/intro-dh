@@ -122,7 +122,7 @@ layout: default
 
 - Readings
 	- D'Ignazio & Klein, ["What gets Counted Counts"](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/3?readingCollection=0cd867ef), from *Data Feminism*
-	- [Philadelphia African American Census 1847](https://ds-pages.swarthmore.edu/paac/)- read the "About" page, look at the scans
+	- [Philadelphia African American Census 1847](https://ds-pages.swarthmore.edu/paac/) - read the "About" page, look at the scans
 - In class
 	- Data cleaning in OpenRefine workshop
 
