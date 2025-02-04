@@ -103,6 +103,8 @@ layout: default
 
 #### **Simple Website Assignment due February 12**
 
+[Instructions for simple website](assignments/website.md)
+
 #### Thursday, February 13: Crowd-sourcing
 
 - Readings:
