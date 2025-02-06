@@ -1,15 +1,13 @@
-## HIST 105B: Introduction to Digital Humanities
-
 Office Hours: Fridays 1-3 or by appointment
 
-### Resources
+## Resources
 
 - [Web development resources](resources/web.md)
 - [Installation guide](resources/installation.md)
 - [Markdown guide](resources/markdown-guide.md)
 - [Deployment guide](resources/deployment.md)
 
-### Short schedule
+## Short schedule
 
 [See full schedule with readings](schedule.md) or navigate to the page for each week
 
