@@ -109,9 +109,9 @@ layout: default
 
 - Readings:
 	- Explore the [Colored Conventions Project](https://coloredconventions.org/): about, Project principles, other selections
-	- Catherine D'Ignazio and Lauren F. Klein, ["The Power Chapter"](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/4), from *Data Feminism* (MIT 2020)
+	- Optional: Catherine D'Ignazio and Lauren F. Klein, ["The Power Chapter"](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/4), from *Data Feminism* (MIT 2020)
 - In class:
-	- Activity: citizen science, open access, open source
+	- Discussion of the readings (Johnson, Risam, Colored Conventions, etc.)
 - Homework:
 	- Participate in [Douglass Day](https://douglassday.org/)
 	- Find something fun to post for your response

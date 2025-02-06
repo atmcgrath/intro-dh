@@ -11,4 +11,6 @@
   - Templates and models
     - [html5up](https://html5up.net/)
     - [css zen garden](http://www.csszengarden.com/)
-- Domain of One's Own [AskAthena articles](https://askathena.brynmawr.edu/help/domain-of-ones-own)
+- Deployment
+  - [GitHub Pages DSRI Tutorial]([Github Pages (DSRI)](https://github.com/tri-cods/github-pages))
+  - Domain of One's Own [AskAthena articles](https://askathena.brynmawr.edu/help/domain-of-ones-own)
