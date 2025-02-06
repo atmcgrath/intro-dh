@@ -4,7 +4,7 @@ Dr. [Alice McGrath](https://alicetmcgrath.com), Senior Digital Scholarship Speci
 
 Office Hours: Fridays 1-2:30 or by appointment; Carpenter A5
 
-Course: T/Th 2:40-4:00 PM, OL 116
+Course: T/Th 2:40-4:00 PM, Dalton 20 ~~OL 116~~
 
 Bryn Mawr College, Spring 2025
 
@@ -37,7 +37,7 @@ Through this course, you will:
 	- Thursday, February 6: Design and Access
 - Week 4: DH, Activism, and Community Engagement
 	- Tuesday, February 11: Digital justice
-	- **Simple Website Assignment due February 12**
+	- **[Simple Website Assignment](assignments/website.md) due February ~~12~~ 14**
 	- Thursday, February 13: Crowd-sourcing
 	- Friday, February 14: Douglass Day (1-3 PM in Campus Center)
 - Week 5: Data basics
