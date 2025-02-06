@@ -1,6 +1,3 @@
----
-layout: with-nav
----
 
 ## Course details
 
