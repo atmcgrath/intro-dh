@@ -9,6 +9,6 @@
   - Self-paced interactive [CSS tutorial](https://www.w3schools.com/css/) from w3schools.com
   - LinkedIn Learning: [CSS Essential Training](https://www.linkedin.com/learning/css-essential-training-3/) (4h 28m)
   - Templates and models
-    - https://html5up.net/
-    - http://www.csszengarden.com/
-- Domain of One's Own [Tech Docs](https://techdocs.blogs.brynmawr.edu/web-authoring)
+    - [html5up](https://html5up.net/)
+    - [css zen garden](http://www.csszengarden.com/)
+- Domain of One's Own [AskAthena articles](https://askathena.brynmawr.edu/help/domain-of-ones-own)
