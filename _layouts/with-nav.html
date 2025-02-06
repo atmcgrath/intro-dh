@@ -36,11 +36,10 @@
             
             {% for week in site.wk %}
             
-            <a href="{{ week.url | relative_url }}">{{ week.slug }}</a>
+            <a href="{{ week.url | relative_url }}">{{ week.slug }}</a> 
             
             {% endfor %}
 
-          </p>
       <section id="main_content">
         {{ content }}
       </section>
