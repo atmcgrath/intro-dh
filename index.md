@@ -1,16 +1,17 @@
 ## HIST 105B: Introduction to Digital Humanities
 
-Dr. [Alice McGrath](https://alicetmcgrath.com), Senior Digital Scholarship Specialist & Interim Director of Educational & Scholarly Technology
+Office Hours: Fridays 1-3 or by appointment
 
-Office Hours: Fridays 1-2:30 or by appointment; Carpenter A5
+### Resources
 
-Course: T/Th 2:40-4:00 PM, Dalton 20 ~~OL 116~~
-
-Bryn Mawr College, Spring 2025
+- [Web development resources](resources/web.md)
+- [Installation guide](resources/installation.md)
+- [Markdown guide](resources/markdown-guide.md)
+- [Deployment guide](resources/deployment.md)
 
 ### Short schedule
 
-[See full schedule with readings](schedule.md)
+[See full schedule with readings](schedule.md) or navigate to the page for each week
 
 - [Week 1: What is Digital Humanities?](wk/01)
 	- Tuesday, January 21: Defining DH
@@ -63,26 +64,3 @@ Bryn Mawr College, Spring 2025
 	- Thursday, May 1: Presentations
 	- **Final project or portfolio due Friday, May 2**
 
-### Description
-
-"Digital Humanities" includes a variety of ways that computers can be used to explore, analyze, and publish human histories and cultural objects (literature, art, music, and more), as well as the study of computer technologies through humanistic frameworks. This course will provide a general introduction to digital humanities through a combination of reading, discussion, and hands-on digital making. We will begin with digital publication and digitization (multi-modal scholarship, digital collections, creative coding, immersive/3D models, and more) by discussing examples and building our own small-scale projects. We will ask: how can understanding and situating the digital infrastructures we inhabit every day help us imagine new ones? Then we will turn towards humanities data: how are cultural objects represented digitally, and how can computational analysis methods provide insights? What are the limitations and possibilities of these data-centered approaches? Assignments will include visual essays, simple websites, and data visualization; students will learn to work in command line, Python, and HTML, among other digital skills. 
-
-### Learning goals
-
-Through this course, you will:
-
-- Gain practical computing skills, including work in the command line, Python, HTML, and git
-- Build skill in digital communication, including web design and publishing
-- Improve data literacy skills, including data cleaning, data presentation, and digital tools for data analysis
-- Gain a better understanding of the ways in which computers model and represent human-created materials
-- Become familiar with a range of computational analysis and digital publication methods used for humanistic research
-- Develop frameworks for critical digital literacy and critical computing
-
-
-[Course details](details.md)
-
-### Resources
-
-- [Web development resources](resources/web.md)
-- [Installation guide](resources/installation.md)
-- [Markdown guide](resources/markdown-guide.md)
