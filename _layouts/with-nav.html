@@ -27,13 +27,13 @@
           <a href="{{ site.baseurl }}/schedule" >Schedule</a>
           <a href="{{ site.baseurl }}/details" >Course details</a>
           <a href="{{ site.github.repository_url }}" >GitHub</a>
-          Weeks: 
+          <p>Weeks: 
             {% for week in site.wk %}
             
             <a href="{{ week.url | relative_url }}">{{ week.slug }}</a> 
             
             {% endfor %}
-          
+          </p>
         </section>
       </div>
     </header>
@@ -51,5 +51,16 @@
         {{ content }}
       </section>
     </div>
+    <footer>
+        <section id="downloads">
+            {% if site.show_downloads %}
+              <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
+              <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
+            {% endif %}
+            <a href="{{ site.baseurl }}/schedule" class="btn" >Schedule</a>
+            <a href="{{ site.baseurl }}/details" class="btn" >Course details</a>
+            <a href="{{ site.github.repository_url }}" class="btn" >GitHub</a>
+          </section>
+    </footer>
   </body>
 </html>
