@@ -12,17 +12,17 @@ Bryn Mawr College, Spring 2025
 
 [See full schedule with readings](schedule.md)
 
-- [Week 1: What is Digital Humanities?](wk/01.md)
+- [Week 1: What is Digital Humanities?](wk/01)
 	- Tuesday, January 21: Defining DH
 	- Thursday, January 23: Digital humanities projects
-- [Week 2: Computational Thinking](wk/02.md)
+- [Week 2: Computational Thinking](wk/02)
 	- Tuesday, January 28: The command line
 	- Thursday, January 30: Introduction to Python
 	- **[Project Review Assignment](assignments/review.md) Due: Friday, January 31**
-- [Week 3: The Internet](wk/03.md)
+- [Week 3: The Internet](wk/03)
 	- Tuesday, February 4: Hyper Text Markup Language
 	- Thursday, February 6: Design and Access
-- [Week 4: DH, Activism, and Community Engagement](wk/04.md)
+- [Week 4: DH, Activism, and Community Engagement](wk/04)
 	- Tuesday, February 11: Digital justice
 	- **[Simple Website Assignment](assignments/website.md) due February ~~12~~ 14**
 	- Thursday, February 13: Crowd-sourcing

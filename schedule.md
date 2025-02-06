@@ -6,7 +6,7 @@ layout: default
 
 ### Week 1: What is Digital Humanities?
 
-[Week 1 detail](wk/01.md)
+[Week 1 detail](wk/01)
 
 #### Tuesday, January 21: Defining DH
 
@@ -32,7 +32,7 @@ layout: default
 
 ### Week 2: Computational Thinking
 
-[Week 2 detail](wk/02.md)
+[Week 2 detail](wk/02)
 
 **Response due Monday 1/27:** "Hello World" (see [moodle forum](https://moodle.brynmawr.edu/mod/forum/discuss.php?d=67411))
 
@@ -63,7 +63,7 @@ layout: default
 
 ### Week 3: The Internet
 
-[Week 3 detail](wk/03.md)
+[Week 3 detail](wk/03)
 
 **Response due Monday 2/3**
 
