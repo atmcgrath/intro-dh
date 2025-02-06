@@ -10,17 +10,17 @@ Now that you have a GitHub repository, it's now time to share your work with the
 1) In your repository, Navigate to the "Settings" tab. 
 <img src="../static/settings.png" alt="settings button" height="10%">
 
-1) On the left menu, scroll down to "Pages"
+2) On the left menu, scroll down to "Pages"
 <img src="../static/pages-settings.png" alt="github pages">
 
-3. Under Source, select "Deploy from a branch"
+3) Under Source, select "Deploy from a branch"
 
 ![deploy from a branch](../static/deploy-branch.png)
 
-1) Change the `Source` box from `none` to `main branch`. Click "Save"
+4) Change the `Source` box from `none` to `main branch`. Click "Save"
 <img src="../static/select-branch.png" alt="set source" width="40%">
 
-1) That's it. Your site is ready to deploy! Be patient, because it may take a few minutes to build.
+5) That's it. Your site is ready to deploy! Be patient, because it may take a few minutes to build.
 
 ## Your new site's url
 
