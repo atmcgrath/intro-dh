@@ -31,7 +31,7 @@
             
             {% for week in wk %}
             
-            <a href="{{ week.url | relative_url }}">{{ week.number }}</a>
+            <a href="{{ week.url | relative_url }}">{{ week.slug }}</a>
             
             {% endfor %}
 

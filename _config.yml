@@ -8,3 +8,4 @@ plugins:
 collections:
   wk:
     output: true
+    relative_directory: wk
