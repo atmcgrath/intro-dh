@@ -4,7 +4,9 @@ layout: with-nav
 
 ## Syllabus
 
-[Assignments](#assignments) | [Policies](#policies) | [Schedule](#schedule)
+- [Assignments](#assignments)
+- [Policies](#policies)
+- [Schedule](#schedule)
 
 ### Course info 
 
