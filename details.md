@@ -1,3 +1,7 @@
+---
+layout: with-nav
+---
+
 ## Course details
 
 ### Materials
@@ -14,8 +18,8 @@ Your grade will be assessed from a combination of short assignments -- demonstra
 | Assignment                 | Worth | Due  | Notes                                                                                                                                                                                               |
 | -------------------------- | ----- | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Participation              | 20%   | --   | Includes attendance, discussion participation, and weekly short responses                                                                                                                           |
-| Project review             | 10%   | 1/31 | A short analysis and review of a Digital Humanities project                                                                                                                                         |
-| Website                    | 10%   | 2/12 | A simple static website                                                                                                                                                                             |
+| [Project review](assignments/review.md)             | 10%   | 1/31 | A short analysis and review of a Digital Humanities project                                                                                                                                         |
+| [Website](assignments/website.md)                    | 10%   | 2/14 | A simple static website                                                                                                                                                                             |
 | Data story                 | 15%   | 3/21 | A data visualization with context                                                                                                                                                                   |
 | Visual essay               | 15%   | 4/4  | A mini-exhibit featuring primary sources and commentary                                                                                                                                             |
 | Final project or portfolio | 30%   | 5/7  | **Option A**: a published digital humanities project on a topic or format of your choice. **Option B**: a portfolio site collecting revised assignments and responses, including a self-assessment. |

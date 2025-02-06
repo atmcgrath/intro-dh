@@ -33,10 +33,10 @@ These are not required, but if you are interested in building additional skills 
 
 ### Resources
 
-- W3 schools has great tutorials and cheatsheets for HTML, CSS, and more: https://www.w3schools.com/html/default.asp
+- W3 schools has great tutorials and cheatsheets for HTML, CSS, and more: [W3 schools HTML](https://www.w3schools.com/html/default.asp)
 - FreeCodeCamp has a free, interactive course that starts with HTML and CSS  [Learn Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 - [CSS Diner Game](https://flukeout.github.io/) - game for practicing CSS selectors
-- You can also help each other; use StackOverflow, and borrow from other sources (if you credit them)
+- You can also help each other; use [StackOverflow](https://stackoverflow.com/questions), and borrow from other sources (if you credit them)
 
 ### Grading criteria
 
