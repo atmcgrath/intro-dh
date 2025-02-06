@@ -93,28 +93,34 @@ layout: default
 
 ### Week 4: DH, Activism, and Community Engagement
 
+**Response due Monday 2/10**
+
 #### Tuesday, February 11: Digital justice
 
-- Readings (on Moodle)
-	- Roopika Risam, "Introduction: The Postcolonial Digital Cultural Record", from *New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy* (Northwestern UP, 2019)
-	- Jessica Marie Johnson, “Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads.” *Social Text*, vol. 36, no. 4 (137), Dec. 2018, pp. 57–79.
+- Reading
+	- Jessica Marie Johnson, “Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads.” *Social Text*, vol. 36, no. 4 (137), Dec. 2018, pp. 57–79. [PDF on Moodle](https://moodle.brynmawr.edu/mod/resource/view.php?id=361735)
+- Homework:
+    - Continue working on your html/css practice site, and gather content and ideas for the [simple website assignment](assignments/website.md)
 - In class:
 	- Discussion of the readings
+	- Workshop time for Website assignment
 
-#### **Simple Website Assignment due February 12**
-
-[Instructions for simple website](assignments/website.md)
 
 #### Thursday, February 13: Crowd-sourcing
 
 - Readings:
 	- Explore the [Colored Conventions Project](https://coloredconventions.org/): about, Project principles, other selections
-	- Optional: Catherine D'Ignazio and Lauren F. Klein, ["The Power Chapter"](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/4), from *Data Feminism* (MIT 2020)
+	- Roopika Risam, "Introduction: The Postcolonial Digital Cultural Record", from *New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy* (Northwestern UP, 2019) [PDF on Moodle](https://moodle.brynmawr.edu/mod/resource/view.php?id=361734)
 - In class:
 	- Discussion of the readings (Johnson, Risam, Colored Conventions, etc.)
 - Homework:
 	- Participate in [Douglass Day](https://douglassday.org/)
 	- Find something fun to post for your response
+
+#### **Simple Website Assignment due February 14**
+
+[Instructions for simple website](assignments/website.md)
+
 
 ### Week 5: Data basics
 
@@ -123,7 +129,8 @@ layout: default
 #### Tuesday, February 18: Data forms
 
 - Readings
-	- D'Ignazio & Klein, ["What gets Counted Counts"](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/3?readingCollection=0cd867ef), from *Data Feminism*
+	- Catherine D'Ignazio and Lauren F. Klein, ["What gets Counted Counts"](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/3?readingCollection=0cd867ef), from *Data Feminism*
+	- Optional: D'Ignazio & Klein, ["The Power Chapter"](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/4), from *Data Feminism* (MIT 2020)
 	- [Philadelphia African American Census 1847](https://ds-pages.swarthmore.edu/paac/) - read the "About" page, look at the scans
 - In class
 	- Data cleaning in OpenRefine workshop
