@@ -93,6 +93,8 @@ layout: default
 
 ### Week 4: DH, Activism, and Community Engagement
 
+[Week 4 detail](wk/04)
+
 **Response due Monday 2/10**
 
 #### Tuesday, February 11: Digital justice

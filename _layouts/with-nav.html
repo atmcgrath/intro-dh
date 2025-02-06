@@ -27,6 +27,13 @@
           <a href="{{ site.baseurl }}/schedule" class="btn">Schedule</a>
           <a href="{{ site.baseurl }}/details" class="btn">Course details</a>
           <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>GitHub</a>
+          <p>Weeks: 
+            {% for week in site.wk %}
+            
+            <a href="{{ week.url | relative_url }}">{{ week.slug }}</a> 
+            
+            {% endfor %}
+          </p>
         </section>
       </div>
     </header>
