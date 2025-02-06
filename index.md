@@ -77,3 +77,9 @@ Through this course, you will:
 	- **Final project or portfolio due Friday, May 2**
 
 [Course details](details.md)
+
+### Resources
+
+- [Web development resources](resources/web.md)
+- [Installation guide](resources/installation.md)
+- [Markdown guide](resources/markdown-guide.md)
