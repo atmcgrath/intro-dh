@@ -2,6 +2,8 @@
 
 Due Friday, February 14
 
+[Submit your URL on Moodle](https://moodle.brynmawr.edu/mod/assign/view.php?id=367779) by end-of-day Friday.
+
 For this assignment, you will practice HTML, CSS, and web design skills by designing and developing a simple static website. The exact form and content for the site are up to you. Depending on what your primary goals are for this class, you may wish to focus your efforts more on building coding skills, emphasizing design and storytelling, or executing a more complex vision.
 
 Your site must be deployed live on the web, and it must include:
