@@ -11,6 +11,7 @@
   - Templates and models
     - [html5up](https://html5up.net/)
     - [css zen garden](http://www.csszengarden.com/)
+  - [Alice's sample website code](https://github.com/hist105b/html-css/) with links to specific sections of the CSS tutorial.
 - Deployment
   - [GitHub Pages DSRI Tutorial]([Github Pages (DSRI)](https://github.com/tri-cods/github-pages))
   - Domain of One's Own [AskAthena articles](https://askathena.brynmawr.edu/help/domain-of-ones-own)
