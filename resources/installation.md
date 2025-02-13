@@ -21,3 +21,8 @@ For additional instructions and context, you may find [this article helpful](htt
 Open a terminal and try typing `git --version`. If Git is not already available, install from your distribution’s software center or package manager (for Ubuntu `sudo apt install git`), or check [alternative Linux install methods](https://git-scm.com/downloads/linux).
 
 Instructions from [CollectionBuilder documentation](https://collectionbuilder.github.io/cb-docs/docs/software/git/).
+
+
+### Setting up Git in VS Code
+
+[Visual Studio Code documentation on git and github setup](https://code.visualstudio.com/docs/sourcecontrol/github)
