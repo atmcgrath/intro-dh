@@ -146,11 +146,11 @@ layout: default
 
 ### Week 6:  Data visualization
 
-**Response due Monday**
+**Response due Monday**: respond to the readings or share a data visualization that interests you and talk about why
 
 #### Tuesday February 25: Data stories
 - Readings
-	- Data Humanism Manifesto, Giorgia Lupi
+	- [Data Humanism: The Revolution will be Visualized](https://giorgialupi.com/data-humanism-my-manifesto-for-a-new-data-wold), Giorgia Lupi
 	- ["Introduction: A Counterhistory of Data Visualization"](https://dataxdesign.io/chapters/intro), from [*Data by Design*](https://dataxdesign.io/), Klein, Sharma, et. al  
 - In class
 	- Discussion of readings; data visualization analysis exercise
