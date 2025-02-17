@@ -17,16 +17,16 @@ Office Hours: Fridays 1-3 or by appointment
 - [Week 2: Computational Thinking](wk/02)
 	- Tuesday, January 28: The command line
 	- Thursday, January 30: Introduction to Python
-	- **[Project Review Assignment](assignments/review.md) Due: Friday, January 31**
+	- **[Project Review Assignment](assignments/review) Due: Friday, January 31**
 - [Week 3: The Internet](wk/03)
 	- Tuesday, February 4: Hyper Text Markup Language
 	- Thursday, February 6: Design and Access
 - [Week 4: DH, Activism, and Community Engagement](wk/04)
 	- Tuesday, February 11: Digital justice
-	- **[Simple Website Assignment](assignments/website.md) due February ~~12~~ 14**
+	- **[Simple Website Assignment](assignments/website) due February ~~12~~ 14**
 	- Thursday, February 13: Crowd-sourcing
 	- Friday, February 14: Douglass Day (1-3 PM in Campus Center)
-- Week 5: Data basics
+- Week 5: [Data basics](wk/05)
 	- Tuesday, February 18: Data forms
 	- Thursday, February 20: Data curation
 - Week 6:  Data visualization
