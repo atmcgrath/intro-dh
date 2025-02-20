@@ -126,6 +126,8 @@ layout: default
 
 ### Week 5: Data basics
 
+[Week 5 detail](wk/05)
+
 **Response due Monday, February 17**: Douglass Day show-and-tell - reflect on your experiences transcribing. Include a screenshot or quotation from material you worked on.
 
 #### Tuesday, February 18: Data forms
