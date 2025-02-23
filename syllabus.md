@@ -105,7 +105,7 @@ We live in a world that has been and still is shaped by structural inequalities,
   	- Tuesday, February 18: Data forms
   	- Thursday, February 20: Data curation
 - DH Methods and Modes
-  - Week 6: Data visualization
+  - [Week 6: Data visualization](wk/06)
   	- Tuesday February 25: Data stories
   	- Thursday, February 27: Visualizing data
   	- **Statement of Interest due February 28** For students interested in the final project option A.

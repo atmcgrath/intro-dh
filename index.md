@@ -30,13 +30,13 @@ Office Hours: Fridays 1-3 or by appointment
   	- Tuesday, February 18: Data forms
   	- Thursday, February 20: Data curation
 - DH Methods and Modes
-  - Week 6: Data visualization
+  - [Week 6: Data visualization](wk/06)
   	- Tuesday February 25: Data stories
   	- Thursday, February 27: Visualizing data
-  	- **Statement of Interest due February 28** For students interested in the final project option A.
   - Week 7: Text analysis
   	- Tuesday, March 4: Computational humanities
   	- Thursday, March 6: Methods of text mining
+    - **Statement of Interest due March 7** For students interested in the final project option A.
   - Week 8: Mapping
   	- Tuesday, March 18: Map forms
   	- Thursday, March 20: Web mapping
