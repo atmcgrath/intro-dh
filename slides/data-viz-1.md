@@ -31,6 +31,7 @@ Alice McGrath | 25 February 2025
 <section>
 
 ![Two nineteenth-century data visualizations](media/playfair-shanawdithit.png)
+
 <small>Visualzations by [William Playfair](https://en.wikipedia.org/wiki/William_Playfair) (left) and [Shanawdithit](https://en.wikipedia.org/wiki/Shanawdithit) (right), from Data x Design, Introduction</small>
 
 </section>
@@ -48,12 +49,16 @@ Alice McGrath | 25 February 2025
 ## Data Humanism
 
 <section>
+
 Giorgia Lupi: ["The Revolution will be Visualized"](https://giorgialupi.com/data-humanism-my-manifesto-for-a-new-data-wold)
+
 </section>
 <section>
+
 ![Data Humanism](https://images.squarespace-cdn.com/content/v1/550de105e4b05c49fa2bba03/1532010285164-6Y4L8YI7NCD15NDX54IS/datahumanism.jpeg?format=2500w)
 
 [Data Humanism, a visual manifesto](https://giorgialupi.com/data-humanism-my-manifesto-for-a-new-data-wold), by Giorgia Lupi
+
 </section>
 <section>
 
@@ -71,8 +76,11 @@ What about "humanistic"?
 
 ## Ex. 1 [Warming Stripes](https://bpb-eu-w2.wpmucdn.com/blogs.reading.ac.uk/dist/3/187/files/2018/05/globalcore.png) 
 <section>
+
 ![Data viz with red and blue stripes](https://www.science.smith.edu/climatelit/wp-content/uploads/sites/97/2021/08/Plain-Global-1850-2020-1-624x351.png)
+
 <small>Ed Hawkins, University of Reading, 2018</small>
+
 </section>
 
 <section>
@@ -89,6 +97,7 @@ See also this [interactive version here](https://showyourstripes.info/s/globe) o
 ## Ex. 2: Wealth, shown to scale
 
 ![screengrab of wealth viz](media/wealth-to-scale.png)
+
 <small>Matt Korostoff (2021); NB: the original version ([MKorostoff/1-pixel-wealth](https://github.com/MKorostoff/1-pixel-wealth)) is no longer available, this adaptation by Omar A. Douglass is pretty close: [Wealth To Scale, adapted for classroom](https://oadouglas.github.io/Wealth-To-Scale-Adapted-For-Classroom/). Various other 
 [translations and adaptations are available here](https://github.com/ave-uhhh/billionaires_to_scale?tab=readme-ov-file).</small>
 
@@ -106,7 +115,9 @@ See also this [interactive version here](https://showyourstripes.info/s/globe) o
 ### Ex. 4: Reach of Racism
 
 <section>
+
 ![screenshot of punishing reach viz](media/punishing-reach.png)
+
 <small>NY Times: [Extensive Data Shows Punishing Reach of Racism for Black Boys](https://www.nytimes.com/interactive/2018/03/19/upshot/race-class-white-and-black-men.html?mtrref=search.brave.com&assetType=PAYWALL) (3/19/2018)</small>
 
 </section>
@@ -115,6 +126,7 @@ See also this [interactive version here](https://showyourstripes.info/s/globe) o
 
 - NB: url is paywalled - [see access instructions here](https://guides.tricolib.brynmawr.edu/nytimes-BMC).
 - See also: more info about the [study by Opportunity Insights that developed the data](https://opportunityinsights.org/paper-category/race/)
+
 </section>
 
 ---
@@ -124,6 +136,7 @@ See also this [interactive version here](https://showyourstripes.info/s/globe) o
 <section>
 
 <img src="https://dataxdesign.io/images/dubois/884.webp" alt="valuation of taxable property" width="40%">
+
 <small>Chart from Du Bois's 1900 "The Exhibition of American Negroes," featured in [Data by Design ch. 5](https://dataxdesign.io/chapters/dubois)</small>
 
 </section>
@@ -137,6 +150,7 @@ See also this [interactive version here](https://showyourstripes.info/s/globe) o
 
 </section>
 <section>
+
 - Rusert and Battle-Baptiste, *W.E.B. Du Bois's data portraits: visualizing Black America* (Princeton Architectural Press, 2018) 
 - The [Du Bois Data Portrait Challenge](https://www.kaggle.com/datasets/paultimothymooney/dubois-data-portrait-challenge), an effort to recreate these visualizations using contemporary tools
 - See also [the data on their github repository](https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge)
