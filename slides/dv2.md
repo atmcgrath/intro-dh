@@ -69,7 +69,7 @@ quantities/distribution | correlation | part of a whole | change over time | con
 
 <section>
 
-## What will you show? 
+### What will you show? 
 
 - All variables? Relationships between variables? 
 - Summaries? Every data point?

@@ -8,7 +8,7 @@
 
 ### Visualizing data
 
-### Tools
+#### Tools
 
 - [Flourish](https://flourish.studio/)
 - [Raw graphs](https://rawgraphs.io/)
@@ -19,7 +19,7 @@
 - [Palladio](https://hdlab.stanford.edu/palladio/)
 - Adobe Illustrator (available in lab computers) - for customizing design
 
-### Learning resources
+#### Learning resources
 
 - [From Data to Viz](https://www.data-to-viz.com/)
 - [Hands-On Data Visualization](https://handsondataviz.org/)
