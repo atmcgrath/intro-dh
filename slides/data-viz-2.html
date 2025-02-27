@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="author" content="Alice McGrath">
+  <meta name="dcterms.date" content="2025-02-27">
+  <title>Data Visualization II</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@^4//dist/reset.css">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@^4//dist/reveal.css">
+  <style>
+    .reveal .sourceCode {  /* see #7635 */
+      overflow: visible;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@^4//dist/theme/night.css" id="theme">
+  <link rel="stylesheet" href="https://alicemcgrath.digital.brynmawr.edu/pres/a3.css"/>
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide">
+  <h1 class="title">Data Visualization II</h1>
+  <p class="author">Alice McGrath</p>
+  <p class="date">February 27, 2025</p>
+</section>
+
+<section id="agenda" class="slide level2">
+<h2>Agenda</h2>
+<ol type="1">
+<li>Data visualization workflow</li>
+<li>Activity using RawGraphs</li>
+<li>On your own</li>
+</ol>
+</section>
+<section id="how-do-you-make-a-data-viz" class="slide level2">
+<h2>How do you make a data viz?</h2>
+</section>
+<section class="slide level2">
+
+<p><img data-src="media/data-flow.svg" /></p>
+</section>
+<section class="slide level2">
+
+<h3 id="get-data">Get data</h3>
+<ul>
+<li>Collect it</li>
+<li>Find a dataset</li>
+<li>Clean and organize it</li>
+<li>Get to know the context and effects of the data collection
+process</li>
+</ul>
+</section>
+<section class="slide level2">
+
+<h3 id="analyze-data">Analyze data</h3>
+<section>
+<ul>
+<li>What types of data do you have?</li>
+<li>How many variables do you have? How do your variables relate to each
+other?</li>
+<li>What questions can your dataset answer? What stories can it
+tell?</li>
+</ul>
+</section>
+<section>
+<h4 id="what-types-of-data-do-you-have">What types of data do you
+have?</h4>
+<p>Numeric | categoric | geographic | temporal |relationships</p>
+</section>
+<section>
+<h4
+id="how-many-variables-do-you-have-how-do-your-variables-relate-to-each-other">How
+many variables do you have? How do your variables relate to each
+other?</h4>
+<p>quantities/distribution | correlation | part of a whole | change over
+time | connections</p>
+</section>
+<section>
+<h4 id="what-questions-can-you-answer">What questions can you
+answer?</h4>
+<h4 id="what-stories-can-you-tell">What stories can you tell?</h4>
+</section>
+</section>
+<section id="design-visualizations" class="slide level2">
+<h2>Design visualizations</h2>
+<section>
+</section>
+<section id="what-will-you-show" class="slide level2">
+<h2>What will you show?</h2>
+<ul>
+<li>All variables? Relationships between variables?</li>
+<li>Summaries? Every data point?</li>
+</ul>
+</section>
+<section>
+<h3 id="what-graph-types-would-be-most-effective">What graph types would
+be most effective?</h3>
+<ul>
+<li>Useful resource: <a href="https://www.data-to-viz.com/">From Data to
+Viz</a></li>
+<li>Use your imagination! Draw your visualization on paper.</li>
+</ul>
+</section>
+<section>
+<h3 id="communication">Communication</h3>
+<ul>
+<li>What methods can you use to highlight your variables?</li>
+<li>How can you make the results visually compelling and engaging?</li>
+<li>How can you make them more accessible?</li>
+</ul>
+</section>
+<section>
+<h3 id="storytelling">Storytelling</h3>
+<ul>
+<li>What should viewers take away from your visualization?</li>
+<li>What kind of contextual information is needed for them to understand
+it?</li>
+</ul>
+</section>
+</section>
+<section id="data-viz-with-rawgraphs" class="slide level2">
+<h2>Data Viz with RawGraphs</h2>
+<p><img alt="parks linegraph" src="../static/parks-line.svg" width="75%"></p>
+<p><small>Visitors to US National Parks by year, 1979-2023</small></p>
+</section>
+<section id="getting-started" class="slide level2">
+<h2>Getting started</h2>
+<ul>
+<li>Download the data here: <a
+href="https://raw.githubusercontent.com/melaniewalsh/responsible-datasets-in-context/main/datasets/national-parks/US-National-Parks_RecreationVisits_1979-2023.csv">National
+parks annual data</a></li>
+<li>Save it to a folder on your computer that you’ll be able to find
+later</li>
+<li>Upload the dataset to <a href="https://databasic.io/en/wtfcsv/">WTF
+CSV</a> to see some basic info about it</li>
+<li>What types of data do we have?</li>
+</ul>
+</section>
+<section id="v1-rawgraphs-line-graph" class="slide level2">
+<h2>V1: RawGraphs line graph</h2>
+<section>
+<ul>
+<li>Navigate to <a
+href="https://www.rawgraphs.io/">RawGraphs.io</a></li>
+<li>Click ‘Use it Now’</li>
+<li>Upload the parks dataset</li>
+<li>Make sure the data in each row is categorized correctly</li>
+<li>Scroll down to ‘Choose a Chart’ and select ‘Line Chart’</li>
+<li>Drag ‘Year’ onto the X axis</li>
+<li>Drag ‘RecreationVisits’ onto the Y axis</li>
+</ul>
+</section>
+<section>
+<ul>
+<li>Look at the result. What do you notice?</li>
+<li>Now drag ‘ParkName’ onto ‘Lines’</li>
+<li>Try dragging things onto ‘Color’ and ‘Series’ and try swapping out
+other categories for ‘Lines’</li>
+<li>When you have something you are satisfied with, scroll down to
+‘export’. Choose either <code>.svg</code> or <code>.png</code></li>
+<li>Save this in the same folder as your csv.</li>
+</ul>
+</section>
+</section>
+<section id="on-your-own" class="slide level2">
+<h2>On your own</h2>
+<section>
+<ul>
+<li>In pairs, create 2-3 other graphs to show different things with the
+original dataset or a stacked dataset.</li>
+<li>Save 2 graphs and post them to the Moodle Forum for today</li>
+</ul>
+</section>
+<section>
+<ul>
+<li>Tips
+<ul>
+<li>Use the <a href="https://www.rawgraphs.io/learning">RawGraphs
+documentation</a> for more detail on particular charts.</li>
+<li>Create at least one graph that shows hierarchies.</li>
+</ul></li>
+<li>Optional: try out <a
+href="https://raw.githubusercontent.com/melaniewalsh/responsible-datasets-in-context/main/datasets/national-parks/US-National-Parks_Use_1979-2023_By-Month.csv">Park
+visits by month</a>, which also includes data on camping and other
+categories.</li>
+</ul>
+</section>
+</section>
+<section id="v3-draw-your-data" class="slide level2">
+<h2>V3: Draw your data</h2>
+<ul>
+<li>In your pairs, draw visual representations of the National Parks
+data using paper and markers</li>
+<li>Design them however you like</li>
+<li>Aim to create two different versions</li>
+</ul>
+</section>
+<section id="discussion" class="slide level2">
+<h2>Discussion</h2>
+<div>
+<ul>
+<li class="fragment">Share out your visualizations and explain your
+vision.</li>
+<li class="fragment">What did you find interesting or difficult about
+this process?</li>
+<li class="fragment">What context or additional data would you want to
+bring in if you were building a data story or data essay?</li>
+</ul>
+</div>
+</section>
+<section id="resources" class="slide level2">
+<h2>Resources</h2>
+</section>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/reveal.js@^4//dist/reveal.js"></script>
+
+  <!-- reveal.js plugins -->
+  <script src="https://unpkg.com/reveal.js@^4//plugin/notes/notes.js"></script>
+  <script src="https://unpkg.com/reveal.js@^4//plugin/search/search.js"></script>
+  <script src="https://unpkg.com/reveal.js@^4//plugin/zoom/zoom.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+        // Display controls in the bottom right corner
+        controls: true,
+
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: true,
+
+        // Determines where controls appear, "edges" or "bottom-right"
+        controlsLayout: 'bottom-right',
+
+        // Visibility rule for backwards navigation arrows; "faded", "hidden"
+        // or "visible"
+        controlsBackArrows: 'faded',
+
+        // Display a presentation progress bar
+        progress: true,
+
+        // Display the page number of the current slide
+        slideNumber: true,
+
+        // 'all', 'print', or 'speaker'
+        showSlideNumber: 'all',
+
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: true,
+
+        // Start with 1 for the hash rather than 0
+        hashOneBasedIndex: false,
+
+        // Flags if we should monitor the hash and change slides accordingly
+        respondToHashChanges: true,
+
+        // Push each slide change to the browser history
+        history: false,
+
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+
+        // Enable the slide overview mode
+        overview: true,
+
+        // Disables the default reveal.js slide layout (scaling and centering)
+        // so that you can use custom CSS layout
+        disableLayout: false,
+
+        // Vertical centering of slides
+        center: true,
+
+        // Enables touch navigation on devices with touch input
+        touch: true,
+
+        // Loop the presentation
+        loop: false,
+
+        // Change the presentation direction to be RTL
+        rtl: false,
+
+        // see https://revealjs.com/vertical-slides/#navigation-mode
+        navigationMode: 'default',
+
+        // Randomizes the order of slides each time the presentation loads
+        shuffle: false,
+
+        // Turns fragments on and off globally
+        fragments: true,
+
+        // Flags whether to include the current fragment in the URL,
+        // so that reloading brings you to the same fragment position
+        fragmentInURL: true,
+
+        // Flags if the presentation is running in an embedded mode,
+        // i.e. contained within a limited portion of the screen
+        embedded: false,
+
+        // Flags if we should show a help overlay when the questionmark
+        // key is pressed
+        help: true,
+
+        // Flags if it should be possible to pause the presentation (blackout)
+        pause: true,
+
+        // Flags if speaker notes should be visible to all viewers
+        showNotes: false,
+
+        // Global override for autoplaying embedded media (null/true/false)
+        autoPlayMedia: null,
+
+        // Global override for preloading lazy-loaded iframes (null/true/false)
+        preloadIframes: null,
+
+        // Number of milliseconds between automatically proceeding to the
+        // next slide, disabled when set to 0, this value can be overwritten
+        // by using a data-autoslide attribute on your slides
+        autoSlide: 0,
+
+        // Stop auto-sliding after user input
+        autoSlideStoppable: true,
+
+        // Use this method for navigation when auto-sliding
+        autoSlideMethod: null,
+
+        // Specify the average time in seconds that you think you will spend
+        // presenting each slide. This is used to show a pacing timer in the
+        // speaker view
+        defaultTiming: null,
+
+        // Enable slide navigation via mouse wheel
+        mouseWheel: false,
+
+        // The display mode that will be used to show slides
+        display: 'block',
+
+        // Hide cursor if inactive
+        hideInactiveCursor: true,
+
+        // Time before the cursor is hidden (in ms)
+        hideCursorTime: 5000,
+
+        // Opens links in an iframe preview overlay
+        previewLinks: false,
+
+        // Transition style (none/fade/slide/convex/concave/zoom)
+        transition: 'slide',
+
+        // Transition speed (default/fast/slow)
+        transitionSpeed: 'default',
+
+        // Transition style for full page slide backgrounds
+        // (none/fade/slide/convex/concave/zoom)
+        backgroundTransition: 'fade',
+
+        // Number of slides away from the current that are visible
+        viewDistance: 3,
+
+        // Number of slides away from the current that are visible on mobile
+        // devices. It is advisable to set this to a lower number than
+        // viewDistance in order to save resources.
+        mobileViewDistance: 2,
+
+        // reveal.js plugins
+        plugins: [
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
+        ]
+      });
+    </script>
+    </body>
+</html>
