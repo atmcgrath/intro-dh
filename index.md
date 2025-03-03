@@ -33,7 +33,7 @@ Office Hours: Fridays 1-3 or by appointment
   - [Week 6: Data visualization](wk/06)
   	- Tuesday February 25: Data stories
   	- Thursday, February 27: Visualizing data
-  - Week 7: Text analysis
+  - [Week 7: Text analysis](wk/07)
   	- Tuesday, March 4: Computational humanities
   	- Thursday, March 6: Methods of text mining
     - **Statement of Interest due March 7** For students interested in the final project option A.
@@ -62,6 +62,6 @@ Office Hours: Fridays 1-3 or by appointment
 - Week 14: Review and presentations
 	- Tuesday, April 29: Project work
 	- Thursday, May 1: Presentations
-	- **Final project or portfolio due Friday, May 2**
+	- [**Final project or portfolio due Friday, May 2**](assignments/final-project)
 
 
