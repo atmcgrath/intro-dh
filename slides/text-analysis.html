@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="author" content="Alice McGrath">
+  <meta name="dcterms.date" content="2025-03-06">
+  <title>Text Analysis</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@^4//dist/reset.css">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@^4//dist/reveal.css">
+  <style>
+    .reveal .sourceCode {  /* see #7635 */
+      overflow: visible;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@^4//dist/theme/night.css" id="theme">
+  <link rel="stylesheet" href="https://alicemcgrath.digital.brynmawr.edu/pres/a3.css"/>
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide">
+  <h1 class="title">Text Analysis</h1>
+  <p class="author">Alice McGrath</p>
+  <p class="date">March 6, 2025</p>
+</section>
+
+<section id="agenda" class="slide level2">
+<h2>Agenda</h2>
+<ol type="1">
+<li>Final project proposal questions</li>
+<li>Text analysis examples</li>
+<li>Cultural analytics tutorial</li>
+</ol>
+</section>
+<section id="project-proposal-questions" class="slide level2">
+<h2>Project proposal questions</h2>
+<p><a
+href="https://moodle.brynmawr.edu/mod/assign/view.php?id=370332">Project
+Proposal instructions</a></p>
+</section>
+<section id="text-analysis-methods" class="slide level2">
+<h2>Text Analysis Methods</h2>
+<p><img
+data-src="https://alicemcgrath.digital.brynmawr.edu/pres/media/ngram-war-peace.png"
+alt="A google N-gram showing War and Peace" /> <small>From the <a
+href="https://books.google.com/ngrams/">Google Books NGram
+viewer</a></small></p>
+</section>
+<section id="natural-language-processing" class="slide level2">
+<h2>Natural Language Processing</h2>
+<ul>
+<li>Bag-of-words: word counts, regardless of word order</li>
+<li>Language models: machine learning algorithms trained on
+language-specific datasets</li>
+</ul>
+</section>
+<section id="word-counting" class="slide level2">
+<h2>Word counting</h2>
+<section>
+<h3 id="methods">Methods</h3>
+<ul>
+<li>N-gram frequency (unigrams, bigrams, trigrams)</li>
+<li>KWIC: Keywords in context/concordance</li>
+<li>Collocations: words that appear in close proximity</li>
+<li>Topic modeling: sets of words that appear together across multiple
+documents</li>
+<li>TF-IDF: term-frequency inverse-document-frequency</li>
+</ul>
+</section>
+<section>
+<h3 id="examples">Examples</h3>
+<ul>
+<li><a href="https://fanengagement.org/">Fan Engagement Meter</a> -
+Peter Decherney, James Fiumara, Scott Enderle (Price Lab) - quantifying
+text reuse in fan fiction archives from popular film franchises</li>
+<li><a href="https://onthebooks.lib.unc.edu/">On The Books</a> - UNC -
+identifying Jim Crow laws that have not been repealed</li>
+</ul>
+</section>
+</section>
+<section id="language-models" class="slide level2">
+<h2>Language models</h2>
+<section>
+<h3 id="methods-1">Methods</h3>
+<ul>
+<li>Named Entity Recognition/parts-of-speech tagging</li>
+<li>Word vectors/word embeddings</li>
+<li>Sentiment analysis*</li>
+<li>Text classification</li>
+<li>Text prediction/generation</li>
+</ul>
+</section>
+<section>
+<h3 id="examples-1">Examples</h3>
+<ul>
+<li><a href="https://culturalanalytics.org/article/118497">Sentiment
+analysis of Weimar film reviews</a>, Campregher Paiva &amp; Diecke</li>
+<li><a
+href="https://litlab.stanford.edu/projects/domestic-space/">Stanford Lit
+Lab: Domestic Spaces in Fiction</a></li>
+</ul>
+</section>
+</section>
+<section id="tf-idf" class="slide level2">
+<h2>TF-IDF</h2>
+<section>
+<p><a
+href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/03-TF-IDF-Scikit-Learn.html">TF-IDF
+with SciKit Learn</a>, from <em>Intro to Cultural Analytics in
+Python</em>.</p>
+</section>
+<section>
+<ul>
+<li>Access the notebook from your <a
+href="https://github.com/Bryn-Mawr-College/hist-105b-intro-python-intro-python/tree/main">Python
+Github Classroom assignment</a></li>
+<li>Merge pull request</li>
+<li>Download to your desktop or open in CodeSpaces</li>
+</ul>
+</section>
+<section>
+</section>
+<section id="other-resources" class="slide level2">
+<h2>Other resources</h2>
+<p><a
+href="https://constellate.org/tutorials/no-code/significant-terms">Constellate
+tutorial on Significant Terms</a></p>
+</section>
+</section>
+<section id="tools-and-resources" class="slide level2">
+<h2>Tools and resources</h2>
+<ul>
+<li><a href="https://voyant-tools.org/">Voyant-tools.org</a> - no-code
+corpus exploration</li>
+<li><a href="https://constellate.org/">Constellate</a> no-code tutorials
+and jupyter notebook tutorials for a range of methods</li>
+</ul>
+</section>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/reveal.js@^4//dist/reveal.js"></script>
+
+  <!-- reveal.js plugins -->
+  <script src="https://unpkg.com/reveal.js@^4//plugin/notes/notes.js"></script>
+  <script src="https://unpkg.com/reveal.js@^4//plugin/search/search.js"></script>
+  <script src="https://unpkg.com/reveal.js@^4//plugin/zoom/zoom.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+        // Display controls in the bottom right corner
+        controls: true,
+
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: true,
+
+        // Determines where controls appear, "edges" or "bottom-right"
+        controlsLayout: 'bottom-right',
+
+        // Visibility rule for backwards navigation arrows; "faded", "hidden"
+        // or "visible"
+        controlsBackArrows: 'faded',
+
+        // Display a presentation progress bar
+        progress: true,
+
+        // Display the page number of the current slide
+        slideNumber: true,
+
+        // 'all', 'print', or 'speaker'
+        showSlideNumber: 'all',
+
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: true,
+
+        // Start with 1 for the hash rather than 0
+        hashOneBasedIndex: false,
+
+        // Flags if we should monitor the hash and change slides accordingly
+        respondToHashChanges: true,
+
+        // Push each slide change to the browser history
+        history: false,
+
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+
+        // Enable the slide overview mode
+        overview: true,
+
+        // Disables the default reveal.js slide layout (scaling and centering)
+        // so that you can use custom CSS layout
+        disableLayout: false,
+
+        // Vertical centering of slides
+        center: true,
+
+        // Enables touch navigation on devices with touch input
+        touch: true,
+
+        // Loop the presentation
+        loop: false,
+
+        // Change the presentation direction to be RTL
+        rtl: false,
+
+        // see https://revealjs.com/vertical-slides/#navigation-mode
+        navigationMode: 'default',
+
+        // Randomizes the order of slides each time the presentation loads
+        shuffle: false,
+
+        // Turns fragments on and off globally
+        fragments: true,
+
+        // Flags whether to include the current fragment in the URL,
+        // so that reloading brings you to the same fragment position
+        fragmentInURL: true,
+
+        // Flags if the presentation is running in an embedded mode,
+        // i.e. contained within a limited portion of the screen
+        embedded: false,
+
+        // Flags if we should show a help overlay when the questionmark
+        // key is pressed
+        help: true,
+
+        // Flags if it should be possible to pause the presentation (blackout)
+        pause: true,
+
+        // Flags if speaker notes should be visible to all viewers
+        showNotes: false,
+
+        // Global override for autoplaying embedded media (null/true/false)
+        autoPlayMedia: null,
+
+        // Global override for preloading lazy-loaded iframes (null/true/false)
+        preloadIframes: null,
+
+        // Number of milliseconds between automatically proceeding to the
+        // next slide, disabled when set to 0, this value can be overwritten
+        // by using a data-autoslide attribute on your slides
+        autoSlide: 0,
+
+        // Stop auto-sliding after user input
+        autoSlideStoppable: true,
+
+        // Use this method for navigation when auto-sliding
+        autoSlideMethod: null,
+
+        // Specify the average time in seconds that you think you will spend
+        // presenting each slide. This is used to show a pacing timer in the
+        // speaker view
+        defaultTiming: null,
+
+        // Enable slide navigation via mouse wheel
+        mouseWheel: false,
+
+        // The display mode that will be used to show slides
+        display: 'block',
+
+        // Hide cursor if inactive
+        hideInactiveCursor: true,
+
+        // Time before the cursor is hidden (in ms)
+        hideCursorTime: 5000,
+
+        // Opens links in an iframe preview overlay
+        previewLinks: false,
+
+        // Transition style (none/fade/slide/convex/concave/zoom)
+        transition: 'slide',
+
+        // Transition speed (default/fast/slow)
+        transitionSpeed: 'default',
+
+        // Transition style for full page slide backgrounds
+        // (none/fade/slide/convex/concave/zoom)
+        backgroundTransition: 'fade',
+
+        // Number of slides away from the current that are visible
+        viewDistance: 3,
+
+        // Number of slides away from the current that are visible on mobile
+        // devices. It is advisable to set this to a lower number than
+        // viewDistance in order to save resources.
+        mobileViewDistance: 2,
+
+        // reveal.js plugins
+        plugins: [
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
+        ]
+      });
+    </script>
+    </body>
+</html>

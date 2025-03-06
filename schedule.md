@@ -197,6 +197,7 @@ For students interested in the final project option A.
 	- Goffe, "Unmapping the Carribbean"
 - In class:
 	- Discussion of readings and projects
+
 #### Thursday, March 20: Web mapping
 - Readings:
 	- ["Anatomy of a Web Map"](https://maptime.io/anatomy-of-a-web-map/#0)by Alan McConchie and Beth Schechter (click through slide show).
