@@ -193,10 +193,10 @@ For students interested in the final project option A.
 
 #### Tuesday, March 18: Map forms
 - Readings:
-	- R. White, "What Is Spatial History?", *Spatial History Lab* (Stanford 2010)
-	- Goffe, "Unmapping the Carribbean"
+	- R. White, ["What Is Spatial History?"](https://web.stanford.edu/group/spatialhistory/media/images/publication/what%20is%20spatial%20history%20pub%20020110.pdf), *Spatial History Lab* (Stanford 2010)
+	- Tao Leigh Goffe, ["Unmapping the Carribbean: Toward a Digital Praxis of Archipelagic Sounding"](https://archipelagosjournal.org/issue05/goffe-unmapping.html)
 - In class:
-	- Discussion of readings and projects
+	- Discussion of readings
 
 #### Thursday, March 20: Web mapping
 - Readings:
@@ -204,7 +204,7 @@ For students interested in the final project option A.
 - In class:
 	- ArcMap tutorial: [Cartographic creations](https://learn.arcgis.com/en/paths/cartographic-creations-with-web-maps/) - Customize a basemap (and, maybe) Make pop-ups and labels
 
-#### Data story due March 21
+~~#### Data story due March 21~~
 
 ### Week 9: Digital Archives & Exhibits
 
@@ -224,6 +224,8 @@ For students interested in the final project option A.
 	- Explore CB examples: https://collectionbuilder.github.io/cb-examples/ - click through the pages of this site and look at one or more sites in the collection
 - In class
 	- Collection Builder workshop
+
+#### Data Story due March 28
 
 ### Week 10: Linked Open Data
 

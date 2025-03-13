@@ -37,25 +37,26 @@ Office Hours: Fridays 1-3 or by appointment
   	- Tuesday, March 4: Computational humanities
   	- Thursday, March 6: Methods of text mining
     - **Statement of Interest due March 7** For students interested in the final project option A.
-  - Week 8: Mapping
+  - [Week 8: Mapping](wk/08)
   	- Tuesday, March 18: Map forms
   	- Thursday, March 20: Web mapping
-  	- **Data story due March 21**
   - Week 9: Digital Archives & Exhibits
   	- Tuesday, March 25: Digital Exhibits
   	- Thursday, March 27: CollectionBuilder
+  	- **Data story due March 28**
   - Week 10: Linked Open Data
   	- Tuesday, April 1: Principles of LOD
   	- Thursday, April 3: Wikidata
-  	- **Visual Essay due April 4**
+
 - Emerging DH
   - Week 11: LLMs and Generative AI
   	- Tuesday, April 8: LLMs
   	- Thursday, April 10: Generative AI
+	- **Visual Essay due April 11**
   - Week 12: Critical Making & Creative Coding
   	- Tuesday, April 15: Critical making
   	- Thursday, April 17: Creative coding
-  	- **Optional: Revised proposal due Friday, April 18 or Tuesday, April 22**
+  	- **Optional: Project bibliography due Friday, April 18 or Tuesday, April 22**
   - Week 13: 3D Modeling
   	- Tuesday, April 22: 3D data
   	- Thursday, April 24: 3D models
