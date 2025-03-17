@@ -225,7 +225,7 @@ For students interested in the final project option A.
 - In class
 	- Collection Builder workshop
 
-#### Data Story due March 28
+#### [Data Story due March 28](assignments/data-essay)
 
 ### Week 10: Linked Open Data
 

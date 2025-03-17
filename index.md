@@ -43,7 +43,7 @@ Office Hours: Fridays 1-3 or by appointment
   - Week 9: Digital Archives & Exhibits
   	- Tuesday, March 25: Digital Exhibits
   	- Thursday, March 27: CollectionBuilder
-  	- **Data story due March 28**
+  	- **[Data story due March 28](assignments/data-essay)**
   - Week 10: Linked Open Data
   	- Tuesday, April 1: Principles of LOD
   	- Thursday, April 3: Wikidata
