@@ -1,14 +1,16 @@
 ## Data Essay assignment instructions
 
-The goal of this assignment is to explore a dataset through a combination of data visualization and text. Your essay should be live on the web and designed and written for a non-specialized public audience. You may select your dataset, tools, and visualization types.
+The goal of this assignment is to explore a dataset through a combination of data visualization and text. Your essay should be live on the web and designed and written for a non-specialized public audience. You may select your dataset, tools, and visualization types. You will [submit the link to Moodle](https://moodle.brynmawr.edu/mod/assign/view.php?id=371805) by Friday, March 28.
 
 Your project should include:
+
 - A bibliography with the data's source and any secondary sources consulted. Citations should be detailed and consistent (i.e. Chicago, MLA, APA...) and should include hyperlinks.
 - A title for your essay (and for any individual visualizations if relevant)
 - One or more visualizations embedded as still images or interactive objects, with labels and keys.
 - Approximately 300-500 words of text
 
 Your essay should include:
+
 - A narrative about this data: an interpretation of what the visualization(s) might show or suggest.
 - An explanation (in your own words) of the dataset itself and how it was collected, along with any context you think is relevant for interpretation.
 - An explanation of your choices in selecting tools, visualizations, a any additional cleaning work you performed.
@@ -21,6 +23,7 @@ You may choose any dataset, as long as it is well documented and you are able to
 ### Tool options
 
 Here are some options I recommend: 
+
 - [RawGraphs](https://www.rawgraphs.io/)
 - [Voyant](voyant-tools.org)
 - ArcGIS online (Map viewer)
@@ -42,17 +45,9 @@ Here are some options I recommend:
 
 ### Rubric
 
-- Execution:
-	- Does the work follow the assignment instructions and include the necessary features?
-- Insight and analysis:
-	- Does the written description demonstrate critical thinking and cogent analysis of the dataset?
-	- Does the overall project show a thorough understanding of the content and insight into the data? 
-- Presentation and design: 
-	- Do the visualization and essay communicate ideas effectively to a general audience?
-	- Are labels and keys present and helpful in understanding the data story? 
-	- Do design choices serve the material?
-- Complexity/effort: 
-	- Does the project show any of the following:
-		- Skill-building beyond what we did in class through customization or use of a more advanced tool.
-		- Strong effort put into research, data processing, or analysis.
-		- Advanced creativity in visualization strategies?
+| Category     | Rubric                                                       | Value |
+| ------------ | ------------------------------------------------------------ | ---- |
+| Execution    | Does the work follow assignment instructions and include all required features? | 25%  |
+| Insight      | Does the written description demonstrate critical thinking and cogent analysis of the dataset? Does the overall project offer a substantive engagement with the material? | 25%  |
+| Presentation | Do the visualization and essay communicate ideas effectively to a general audience? Are labels and keys present and helpful in understanding the data story? Do design choices serve the content? | 25%  |
+| Effort       | Does the project show strong effort, including one or more of the following: evidence of skill-building beyond what has been covered in class, customization or use of an advanced tool, additional effort put into research or data work, or advanced creativity in design and visualization? | 25%  |
