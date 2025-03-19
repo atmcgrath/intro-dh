@@ -109,10 +109,10 @@ We live in a world that has been and still is shaped by structural inequalities,
   	- Tuesday February 25: Data stories
   	- Thursday, February 27: Visualizing data
   	- **Statement of Interest due February 28** For students interested in the final project option A.
-  - Week 7: Text analysis
+  - [Week 7: Text analysis](wk/07)
   	- Tuesday, March 4: Computational humanities
   	- Thursday, March 6: Methods of text mining
-  - Week 8: Mapping
+  - [Week 8: Mapping](wk/08)
   	- Tuesday, March 18: Map forms
   	- Thursday, March 20: Web mapping
   	- **Data story due March 21**

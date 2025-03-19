@@ -168,6 +168,7 @@ layout: default
 	- Data storytelling workshop
 
 #### **Statement of Interest due February 28**
+
 For students interested in the final project option A.
 
 ### Week 7: Text analysis
@@ -175,6 +176,7 @@ For students interested in the final project option A.
 **Response due Monday**
 
 #### Tuesday, March 4: Computational humanities
+
 - Readings
 	- Jo Guldi, from *The dangerous art of text mining: a methodology for digital history*, (Cambridge: 2023). (Moodle)
 	- *Enumerations*, Andrew Piper (Moodle)
@@ -182,6 +184,7 @@ For students interested in the final project option A.
 	- Discussion of readings, introduction to concepts and methods (Constellate tutorials)
 
 #### Thursday, March 6: Methods of text mining
+
 - Readings
 	- Ted Underwood: 7 Ways Humanists... [internet archive version](https://web.archive.org/web/20210124055444/https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/)
 - In class
@@ -192,6 +195,7 @@ For students interested in the final project option A.
 **Response due Monday**
 
 #### Tuesday, March 18: Map forms
+
 - Readings:
 	- R. White, ["What Is Spatial History?"](https://web.stanford.edu/group/spatialhistory/media/images/publication/what%20is%20spatial%20history%20pub%20020110.pdf), *Spatial History Lab* (Stanford 2010)
 	- Tao Leigh Goffe, ["Unmapping the Carribbean: Toward a Digital Praxis of Archipelagic Sounding"](https://archipelagosjournal.org/issue05/goffe-unmapping.html)
@@ -199,6 +203,7 @@ For students interested in the final project option A.
 	- Discussion of readings
 
 #### Thursday, March 20: Web mapping
+
 - Readings:
 	- ["Anatomy of a Web Map"](https://maptime.io/anatomy-of-a-web-map/#0)by Alan McConchie and Beth Schechter (click through slide show).
 - In class:
@@ -219,6 +224,7 @@ For students interested in the final project option A.
 	- Metadata & digital exhibit lecture
 
 #### Thursday, March 27: CollectionBuilder
+
 - Readings:
 	- CollectionBuilder documentation: ["About CollectionBuilder"](https://collectionbuilder.github.io/about.html#general)
 	- Explore CB examples: https://collectionbuilder.github.io/cb-examples/ - click through the pages of this site and look at one or more sites in the collection
@@ -232,6 +238,7 @@ For students interested in the final project option A.
 **Response due Monday**
 
 #### Tuesday, April 1: Principles of LOD
+
 - Readings:
 	- [Editor's Note: May 2024](https://reviewsindh.pubpub.org/pub/editors-note-may-2024/release/5),  *Reviews in Digital Humanities* issue on Linked open Data, Roopika Risam, Jennifer Guiliano, Kim Martin, and Terhi Nurmikko-Fuller
 	- Browse [5-Star Data principles](https://5stardata.info/en/)
@@ -244,6 +251,7 @@ For students interested in the final project option A.
 	- APIs
 
 #### Thursday, April 3: Wikidata
+
 - Readings:
 	- ["Wikidata:Introduction"](https://www.wikidata.org/wiki/Wikidata:Introduction), wikidata.org
 - In class:
@@ -257,6 +265,7 @@ For students interested in the final project option A.
 **Response due Monday**
 
 #### Tuesday, April 8: LLMs
+
 - Readings:
 	- Madhumita Murgia and the Financial Times Visual Storytelling Team ["Generative AI exists because of the transformer"](https://ig.ft.com/generative-ai/) *Financial Times*, Sept. 12, 2023.
 	- Bender, Emily M., et al. “On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜.” _Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency_, Association for Computing Machinery, 2021, pp. 610–23. _ACM Digital Library_, [https://doi.org/10.1145/3442188.3445922](https://doi.org/10.1145/3442188.3445922).
@@ -264,24 +273,25 @@ For students interested in the final project option A.
 - In class
 	- Discussion of LLMs and AI readings
 
-#### Thursday, April 10: Generative AI
+#### Thursday, April 10: Generative AI (with Luke Stark)
+
 - Readings
 	- Find a recent article on AI and share with the team
-- In class
-	- Activity involving LLMs or AI
+- In class: Conversation with Luke Stark
 
 
 ### Week 12: Critical Making & Creative Coding
 
 **Response due Monday**
 
-#### Tuesday, April 15: Critical making
+#### Tuesday, April 15: Critical making (with Bronwen Densmore)
+
 - Reading:
-	- [Thinking as Handwork: Critical Making with Humanistic Concerns](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/4b5fd8b4-2a39-4d7a-a563-3e611da220f0#annotation-a5b02b3d-dcd3-4b9b-b307-0e78da5ec40c)by Gabby Resch, Dan Southwick, Isaac Record, and Matt Ratto
-- In class
-	- Making activity
+	- [Thinking as Handwork: Critical Making with Humanistic Concerns](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/4b5fd8b4-2a39-4d7a-a563-3e611da220f0#annotation-a5b02b3d-dcd3-4b9b-b307-0e78da5ec40c) by Gabby Resch, Dan Southwick, Isaac Record, and Matt Ratto
+- In class: Critical Making workshop led by Makerspace Coordinator Bronwen Densmore
 
 #### Thursday, April 17: Creative coding
+
 - Reading:
 	- Un/tied - read [review from *Reviews in DH*](https://reviewsindh.pubpub.org/pub/untied/release/1) and explore project:  https://www.untied.shoes/
 - In class
@@ -298,6 +308,7 @@ For students interested in the final project option A.
 	- ["Towards 3D Scholarly Editions"](http://digitalhumanities.org:8081/dhq/vol/13/1/000415/000415.html) Papdopoulos, Costas, and Susan Schreibman. Digital Humanities Quarterly 2019.
 
 #### Thursday, April 24: 3D models
+
 - Reading
 	- TBD
 - In class
@@ -308,10 +319,12 @@ For students interested in the final project option A.
 **Response due Monday**
 
 #### Tuesday, April 29: Project work
+
 - In class:
 	- Work on final projects and portfolios
 
 #### Thursday, May 1: Presentations
+
 - In class
 	- Individual presentations on final project
 
