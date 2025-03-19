@@ -216,10 +216,11 @@ For students interested in the final project option A.
 **Response due Monday**
 
 #### Tuesday, March 25: Digital Exhibits
+
 - Readings:
 	- Explore: [Queer Digital History Project](https://queerdigital.com/)
 	- Explore:  "Genoa Indian School Digital Reconciliation Project", [DH Review link](https://reviewsindh.pubpub.org/pub/genoa-indian-school-digital-reconciliation-project/release/1) and [Project link](https://genoaindianschool.org/) 
-	- Other exhibits TBD
+	- Explore: [Digital Benin](https://digitalbenin.org) - look at objects, archival documents, project documentation, and [Edo object vocabulary section](https://digitalbenin.org/eyo-oto)
 - In class
 	- Metadata & digital exhibit lecture
 
