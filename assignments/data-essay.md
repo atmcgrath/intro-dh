@@ -42,6 +42,7 @@ Here are some options I recommend:
 - [*Hands-On Data Visualization* ](https://handsondataviz.org/)by Jack Dougherty & Ilya Ilyankou (2025)
 - [Introduction to Cultural Analytics in Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html)by Melanie Walsh (2021)
 - The Pudding's blog post series: "How to Make Dope Shit", by Ilia Blinderman: [Part 1: Working with Data](https://pudding.cool/process/how-to-make-dope-shit-part-1/), [Part 2: Design](https://pudding.cool/process/how-to-make-dope-shit-part-2/), and [Part 3: Storytelling](https://pudding.cool/process/how-to-make-dope-shit-part-3/)
+- Sample data essay repository: [Data essay live](https://hist105b.github.io/data-essay/) and [Data essay repo](https://github.com/hist105b/data-essay). You can fork this repository and use it for your template. Just make sure you deploy it as a website (see: [deployment guide](../resources/deployment.md)).
 
 ### Rubric
 

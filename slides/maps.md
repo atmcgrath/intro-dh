@@ -23,6 +23,7 @@ Continue working at your own pace with one of these options:
 - Challenge: can you find geographic data for the [U.S. National Park visitors dataset](https://www.responsible-datasets-in-context.com/posts/np-data/?tab=explore-the-data)? What steps would you need to take to map this dataset?
 
 ### Embedding your map
+
 - Data essay sample repository: [Data essay live site](https://hist105b.github.io/data-essay/) and [data essay repository](https://github.com/hist105b/data-essay)
 - Make sure your layers and map are shared publicly (you can manage this on the "content" tab in ArcGIS online)
 - Get the embed code:
