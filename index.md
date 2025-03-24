@@ -40,7 +40,7 @@ Office Hours: Fridays 1-3 or by appointment
   - [Week 8: Mapping](wk/08)
   	- Tuesday, March 18: Map forms
   	- Thursday, March 20: Web mapping
-  - Week 9: Digital Archives & Exhibits
+  - [Week 9: Digital Archives & Exhibits](wk/09)
   	- Tuesday, March 25: Digital Exhibits
   	- Thursday, March 27: CollectionBuilder
   	- **[Data story due March 28](assignments/data-essay)**

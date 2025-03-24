@@ -115,10 +115,10 @@ We live in a world that has been and still is shaped by structural inequalities,
   - [Week 8: Mapping](wk/08)
   	- Tuesday, March 18: Map forms
   	- Thursday, March 20: Web mapping
-  	- **Data story due March 21**
-  - Week 9: Digital Archives & Exhibits
+  - [Week 9: Digital Archives & Exhibits](wk/09)
   	- Tuesday, March 25: Digital Exhibits
   	- Thursday, March 27: CollectionBuilder
+  	- **Data story due March 28**
   - Week 10: Linked Open Data
   	- Tuesday, April 1: Principles of LOD
   	- Thursday, April 3: Wikidata

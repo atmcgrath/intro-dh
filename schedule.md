@@ -213,6 +213,8 @@ For students interested in the final project option A.
 
 ### Week 9: Digital Archives & Exhibits
 
+[Week 9 detail](wk/09)
+
 **Response due Monday**
 
 #### Tuesday, March 25: Digital Exhibits
@@ -229,7 +231,7 @@ For students interested in the final project option A.
 
 - Readings:
 	- CollectionBuilder documentation: ["About CollectionBuilder"](https://collectionbuilder.github.io/about.html#general)
-	- Explore CB examples: https://collectionbuilder.github.io/cb-examples/ - click through the pages of this site and look at one or more sites in the collection
+	- Explore CB examples: [https://collectionbuilder.github.io/cb-examples/](https://collectionbuilder.github.io/cb-examples/) - click through the pages of this site and look at one or more sites in the collection
 - In class
 	- Collection Builder workshop
 
