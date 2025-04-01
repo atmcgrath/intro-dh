@@ -30,4 +30,14 @@
 - Build a game: [Wikitrivia](https://wikitrivia.tomjwatson.com/)
 - Enhance your dataset: adding wikidata IDs so queries can bring up more information
 - Create visualizations
+- Create a Visual Essay: e.g. [Plant Humanities Lab](https://lab.plant-humanities.org/)
+
+## [Juncture](https://www.juncture-digital.org)
+
+- GitHub/markdown based tool for text + images, visualizations
+- Supports IIIF and Wikimedia/Wikidata IDs
+- To get started:
+  - Use the [Juncture documentatian](https://www.juncture-digital.org/#/getting-started)
+  - [Quick Start](https://www.juncture-digital.org/quick-start): set up an essay, explains basic tags
+  - To learn more about particular viewer tags and customizations, use the left-hand menu for the documentation
 
