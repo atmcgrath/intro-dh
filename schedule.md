@@ -276,12 +276,15 @@ For students interested in the final project option A.
 	- Lauren Goodlad, ["Editor's Introduction: Humanities in the Loop"](https://read.dukeupress.edu/critical-ai/article/doi/10.1215/2834703X-10734016/382460/Editor-s-Introduction-Humanities-in-the-Loop), Critical AI 2023.
 - In class
 	- Discussion of LLMs and AI readings
+    - Generative AI with Microsoft Copilot workshop
 
 #### Thursday, April 10: Generative AI (with Luke Stark)
 
 - Readings
 	- Find a recent article on AI and share with the team
 - In class: Conversation with Luke Stark
+
+#### Luke Stark talk: "Artificial Intelligence, Human Emotion, and Animated Agents", 4:15-5:45 PM Dalton 300
 
 
 ### Week 12: Critical Making & Creative Coding
