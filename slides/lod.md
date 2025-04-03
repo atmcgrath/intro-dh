@@ -41,3 +41,7 @@
   - [Quick Start](https://www.juncture-digital.org/quick-start): set up an essay, explains basic tags
   - To learn more about particular viewer tags and customizations, use the left-hand menu for the documentation
 
+## Wikidata
+
+- [Wikidata Query Service Tutorial](https://wdqs-tutorial.toolforge.org/) by Wikimedia Israel
+- ["Wikidata:Introduction"](https://www.wikidata.org/wiki/Wikidata:Introduction), wikidata.org
