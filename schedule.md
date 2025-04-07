@@ -300,7 +300,8 @@ For students interested in the final project option A.
 #### Thursday, April 17: Creative coding
 
 - Reading:
-	- Un/tied - read [review from *Reviews in DH*](https://reviewsindh.pubpub.org/pub/untied/release/1) and explore project:  https://www.untied.shoes/
+	- Explore Bitsy games: [Under a Star Called Sun](https://haraiva.itch.io/under-a-star-called-sun) by Cecile Richard
+	- Select one other [from this collection on itch.io](https://itch.io/games/made-with-bitsy)
 - In class
 	- Bitsy workshop
 

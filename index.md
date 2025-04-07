@@ -49,7 +49,7 @@ Office Hours: Fridays 1-3 or by appointment
   	- Thursday, April 3: Wikidata
 
 - Emerging DH
-  - Week 11: LLMs and Generative AI
+  - [Week 11: LLMs and Generative AI](wk/11)
   	- Tuesday, April 8: LLMs
   	- Thursday, April 10: Generative AI
 	- **Visual Essay due April 11**
