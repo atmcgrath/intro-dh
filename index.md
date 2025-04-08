@@ -52,7 +52,7 @@ Office Hours: Fridays 1-3 or by appointment
   - [Week 11: LLMs and Generative AI](wk/11)
   	- Tuesday, April 8: LLMs
   	- Thursday, April 10: Generative AI
-	- **Visual Essay due April 11**
+	- **[Visual Essay due April 11/14](assignments/data-essay)**
   - Week 12: Critical Making & Creative Coding
   	- Tuesday, April 15: Critical making
   	- Thursday, April 17: Creative coding
