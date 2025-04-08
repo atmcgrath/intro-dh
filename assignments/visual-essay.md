@@ -20,10 +20,3 @@ Deadline: April 14 on Moodle
 - [Juncture](https://www.juncture-digital.org/) - any images hosted on the web, with special features for IIIF and Wikimedia Commons images
 - Other tools with permission of instructor
 
-### Rubric
-
-- Execution based on guidelines
-- Design and storytelling
-- Insight and creativity
-- Curation and selection of image resources
-
