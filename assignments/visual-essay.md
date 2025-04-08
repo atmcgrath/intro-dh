@@ -8,7 +8,7 @@ Your project should be live on the web and it should include:
 - A bibliography with detailed citations
 - Text of 300-500 words 
 
-Deadline: April 14 on Moodle
+Deadline: April 14 on Moodle ([assignment submission link](https://moodle.brynmawr.edu/mod/assign/view.php?id=374410))
 
 ### Tools
 
