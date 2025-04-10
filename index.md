@@ -47,13 +47,11 @@ Office Hours: Fridays 1-3 or by appointment
   - [Week 10: Linked Open Data](wk/10)
   	- Tuesday, April 1: Principles of LOD
   	- Thursday, April 3: Wikidata
-
 - Emerging DH
   - [Week 11: LLMs and Generative AI](wk/11)
   	- Tuesday, April 8: LLMs
   	- Thursday, April 10: Generative AI
-
-  - Week 12: Critical Making & Creative Coding
+  - [Week 12: Critical Making & Creative Coding](wk/12)
   	- Tuesday, April 15: Critical making
   	- Thursday, April 17: Creative coding
   	- [**Visual Essay due April 18**](assignments/visual-essay)
