@@ -52,13 +52,14 @@ Office Hours: Fridays 1-3 or by appointment
   - [Week 11: LLMs and Generative AI](wk/11)
   	- Tuesday, April 8: LLMs
   	- Thursday, April 10: Generative AI
-	- **[Visual Essay due April 11/14](assignments/data-essay)**
+
   - Week 12: Critical Making & Creative Coding
   	- Tuesday, April 15: Critical making
   	- Thursday, April 17: Creative coding
-  	- **Optional: Project bibliography due Friday, April 18 or Tuesday, April 22**
+  	- [**Visual Essay due April 18**](assignments/visual-essay)
   - Week 13: 3D Modeling
   	- Tuesday, April 22: 3D data
+	- **Optional: Project bibliography, revised proposal, or draft due Wednesday, April 23**
   	- Thursday, April 24: 3D models
 - Week 14: Review and presentations
 	- Tuesday, April 29: Project work
