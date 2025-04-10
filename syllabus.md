@@ -47,7 +47,7 @@ Your grade will be assessed from a combination of short assignments -- demonstra
 | [Project review](assignments/review)             | 10%   | 1/31 | A short analysis and review of a Digital Humanities project                                                                                                                                         |
 | [Website](assignments/website)                    | 10%   | 2/14 | A simple static website                                                                                                                                                                             |
 | [Data story](assignments/data-essay)                | 15%   | 3/28 | A data visualization with context                                                                                                                                                                   |
-| Visual essay               | 15%   | 4/4  | A mini-exhibit featuring primary sources and commentary                                                                                                                                             |
+| [Visual essay](assignments/visual-essay)               | 15%   | 4/18  | A mini-exhibit featuring primary sources and commentary                                                                                                                                             |
 | [Final project or portfolio](assignments/final-project) | 30%   | 5/7  | **Option A**: a published digital humanities project on a topic or format of your choice. **Option B**: a portfolio site collecting revised assignments and responses, including a self-assessment. |
 
 #### Attendance & participation
@@ -84,7 +84,7 @@ We live in a world that has been and still is shaped by structural inequalities,
 
 ### Schedule
 
-[See full schedule with readings](schedule.md)
+[See full schedule with readings](schedule.md) or navigate to the page for each week
 - DH Basics
   - [Week 1: What is Digital Humanities?](wk/01)
   	- Tuesday, January 21: Defining DH
@@ -108,33 +108,35 @@ We live in a world that has been and still is shaped by structural inequalities,
   - [Week 6: Data visualization](wk/06)
   	- Tuesday February 25: Data stories
   	- Thursday, February 27: Visualizing data
-  	- **Statement of Interest due February 28** For students interested in the final project option A.
   - [Week 7: Text analysis](wk/07)
   	- Tuesday, March 4: Computational humanities
   	- Thursday, March 6: Methods of text mining
+    - **Statement of Interest due March 7** For students interested in the final project option A.
   - [Week 8: Mapping](wk/08)
   	- Tuesday, March 18: Map forms
   	- Thursday, March 20: Web mapping
   - [Week 9: Digital Archives & Exhibits](wk/09)
   	- Tuesday, March 25: Digital Exhibits
   	- Thursday, March 27: CollectionBuilder
-  	- **Data story due March 28**
-  - Week 10: Linked Open Data
+  	- **[Data story due March 28](assignments/data-essay)**
+  - [Week 10: Linked Open Data](wk/10)
   	- Tuesday, April 1: Principles of LOD
   	- Thursday, April 3: Wikidata
-  	- **Visual Essay due April 4**
 - Emerging DH
-  - Week 11: LLMs and Generative AI
+  - [Week 11: LLMs and Generative AI](wk/11)
   	- Tuesday, April 8: LLMs
   	- Thursday, April 10: Generative AI
-  - Week 12: Critical Making & Creative Coding
+  - [Week 12: Critical Making & Creative Coding](wk/12)
   	- Tuesday, April 15: Critical making
   	- Thursday, April 17: Creative coding
-  	- **Optional: Revised proposal due Friday, April 18 or Tuesday, April 22**
+  	- [**Visual Essay due April 18**](assignments/visual-essay)
   - Week 13: 3D Modeling
   	- Tuesday, April 22: 3D data
+	- **Optional: Project bibliography, revised proposal, or draft due Wednesday, April 23**
   	- Thursday, April 24: 3D models
 - Week 14: Review and presentations
 	- Tuesday, April 29: Project work
 	- Thursday, May 1: Presentations
-	- **Final project or portfolio due Friday, May 2**
+	- [**Final project or portfolio due Friday, May 2**](assignments/final-project)
+
+
