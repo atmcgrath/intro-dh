@@ -266,6 +266,8 @@ For students interested in the final project option A.
 
 ### Week 11: LLMs and Generative AI
 
+[Week 11](wk/11)
+
 **Response due Monday**
 
 #### Tuesday, April 8: LLMs
