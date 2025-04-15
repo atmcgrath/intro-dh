@@ -291,6 +291,8 @@ For students interested in the final project option A.
 
 ### Week 12: Critical Making & Creative Coding
 
+[Week 12](wk/12)
+
 **Response due Monday**
 
 #### Tuesday, April 15: Critical making (with Bronwen Densmore)
@@ -307,7 +309,7 @@ For students interested in the final project option A.
 - In class
 	- Bitsy workshop
 
-#### Optional: Revised proposal due Friday, April 18 or Tuesday, April 22
+#### [Visual Essay due Friday, April 18](assignments/visual-essay)
 
 ### Week 13: 3D Modeling
 
