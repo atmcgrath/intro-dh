@@ -1,8 +1,7 @@
-[<<<Back](02-repo.md) | [Next>>>](04-how.md)
 
-# Deploying a GitHub Pages Site
+## Deploying a GitHub Pages Site
 
-## Activate Pages
+### Activate Pages
 
 Now that you have a GitHub repository, it's now time to share your work with the world.  GitHub pages offers a no-cost coding-optional way to publish your work to the internet.   
 
@@ -24,7 +23,7 @@ Now that you have a GitHub repository, it's now time to share your work with the
 
 - That's it. Your site is ready to deploy! Be patient, because it may take a few minutes to build.
 
-## Your new site's url
+### Your new site's url
 
 The URL to your GitHub Pages site will follow this formula: `username.github.io/repo-name` -- let's make it easier to find.
 
@@ -40,12 +39,10 @@ The URL to your GitHub Pages site will follow this formula: `username.github.io/
 
 Now you'll notice that a url has appeared.
 
-## Waiting for GitHub Pages
+### Waiting for GitHub Pages
 
 From your main page, you should be able to tell whether GitHub Pages has finished deploying your site.  After your latest 'commit', you'll see a brownish-yellow dot or a green check mark.
 
 <img src="../static/progress-check.png" alt="view status of jekyll build">
 
-The dot indicates that your site is in the process of deploying. Once the dot becomes a green check mark, navigate to your URL and marvel at your new website! 
-
-Sometimes this process takes a few minutes. While we wait for the site to build, let's talk about what it's doing.
+The dot indicates that your site is in the process of deploying. Once the dot becomes a green check mark, navigate to your URL and marvel at your new website! Sometimes this process takes a few minutes. 
