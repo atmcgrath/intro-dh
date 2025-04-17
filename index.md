@@ -2,6 +2,7 @@ Office Hours: Fridays 1-3 or by appointment
 
 ## Resources
 
+- [Digital Publishing best practices](resource/digital-publishing)
 - [Web development resources](resources/web.md)
 - [Installation guide](resources/installation.md)
 - [Markdown guide](resources/markdown-guide.md)

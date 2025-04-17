@@ -9,7 +9,8 @@
 - Design & Style​: Think about your audience: try to make the presentation  eye catching and easy to understand. Information should be organized in a logical manner.​
 - Reviewing​: Test your site on different browsers and devices. Have someone else view and interact with your content if possible and build in time to fix any issues.​
 
-​### Using media
+
+### Using media
 
 - Always be careful about whose content you put on website: only use resources you have the right to use.​
 - Look for material in the public domain or using a Creative Commons license that enables reuse. ​
