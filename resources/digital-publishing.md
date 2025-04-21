@@ -19,7 +19,7 @@
 
 ### Metadata
 
-"Metadata is a ove note to the future" (Rachel Lovinger, ["Metadata is a love note to the future"](https://www.slideshare.net/slideshow/metadata-is-a-love-note-to-the-future/48531570), 2015)
+"Metadata is a love note to the future" (Rachel Lovinger, ["Metadata is a love note to the future"](https://www.slideshare.net/slideshow/metadata-is-a-love-note-to-the-future/48531570), 2015)
 
 - Creator/author: person(s) who created the work -- photographers, writers, artists, directors, etc.
 - Date: when it was created (even approximate)
