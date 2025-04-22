@@ -56,13 +56,13 @@ Office Hours: Fridays 1-3 or by appointment
   	- Tuesday, April 15: Critical making
   	- Thursday, April 17: Creative coding
   	- [**Visual Essay due April 18**](assignments/visual-essay)
-  - Week 13: 3D Modeling
-  	- Tuesday, April 22: 3D data
-	- **Optional: Project bibliography, revised proposal, or draft due Wednesday, April 23**
+  - [Week 13: 3D Modeling & Creative Coding](wk/13)
+  	- Tuesday, April 22: Creative coding
+	- **Optional: Project bibliography, revised proposal, or draft due Friday, April 25**
   	- Thursday, April 24: 3D models
-- Week 14: Review and presentations
+- [Week 14: Review and presentations](wk/14)
 	- Tuesday, April 29: Project work
 	- Thursday, May 1: Presentations
-	- [**Final project or portfolio due Friday, May 2**](assignments/final-project)
+	- [**Final project or portfolio due Wednesday, May 7**](assignments/final-project)
 
 
