@@ -60,8 +60,9 @@ Office Hours: Fridays 1-3 or by appointment
   	- Tuesday, April 22: Creative coding
 	- **Optional: Project bibliography, revised proposal, or draft due Friday, April 25**
   	- Thursday, April 24: 3D models
-- [Week 14: Review and presentations](wk/14)
-	- Tuesday, April 29: Project work
+- Wrap-up
+  - [Week 14: Review and presentations](wk/14)
+	- Tuesday, April 29: Reflections
 	- Thursday, May 1: Presentations
 	- [**Final project or portfolio due Wednesday, May 7**](assignments/final-project)
 
