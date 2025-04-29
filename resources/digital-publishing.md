@@ -31,7 +31,7 @@
 ### Finding rights-free media
 
 - [Wikimedia Commons]([Wikimedia](https://commons.wikimedia.org/wiki/Main_Page)): user-contributed media without known copyright
-- [Creative Commons search](): you can search by license type
+- [Creative Commons search](https://search.creativecommons.org/): you can search by license type
 - [Unsplash](https://unsplash.com/), [Pexels](https://www.pexels.com/), [Pixabay](https://pixabay.com/): professional quality stock photo repositories, free to use with attribution
 - Museum and library collections: institutions such as Library of Congress, The Met, The Getty, and more have resources in the public domain
 

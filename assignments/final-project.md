@@ -29,10 +29,10 @@ Create and publish your own small-scale Digital Humanities project using one of 
 
 ### Rubric
 
-- Technical competence and use of tools
-- Visual and written communication (accessibility, design, style, citations)
-- Approach demonstrates creativity, insight, and analysis of materials
-- Project engages effectively with primary and secondary sources
+- **Execution**: does the work follow assignment instructions and include all required features? Are tools used effectively, demonstrating skills built during this class?
+- **Visual and written communication**: does the project communicate effectively to a general audience? Do design choices serve the content and purpose of the site? Does the project follow best practices for style, accessibility?
+- **Insight**: does the approach demonstrate analysis, creativity, and insight into materials? Are the methods explained sufficiently?
+- **Research**: does the project engage effectively with its primary and secondary sources? Does media include appropriate credits and metadata? Does the project's bibliography follow citation guidelines?
 
 ### Resources
 
