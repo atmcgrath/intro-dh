@@ -33,3 +33,11 @@ Create and publish your own small-scale Digital Humanities project using one of 
 - Visual and written communication (accessibility, design, style, citations)
 - Approach demonstrates creativity, insight, and analysis of materials
 - Project engages effectively with primary and secondary sources
+
+### Resources
+
+- [Digital publishing best practices](../resources/digital-publishing)
+- [GitHub deployment guide](../resources/deployment)
+- [Data resource guide](../resources/data)
+- [LibGuide: Citation](https://guides.tricolib.brynmawr.edu/citation)
+- [LibGuide: Student Library Guide (BMC)](https://guides.tricolib.brynmawr.edu/c.php?g=1251096&p=9160207)
