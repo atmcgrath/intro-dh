@@ -1,4 +1,4 @@
-## Wrap-up
+## Wrap-up: April 29, 2025
 
 ## Questions
 
@@ -18,14 +18,14 @@ Please submit your responses [on Moodle](https://moodle.brynmawr.edu/mod/assign/
 
 ## Announcements
 
-- Rubric update: [Final Project](../assignments/final-project)
-- Summer jobs still open: 
-  - [Digital Scholarship Project Assistant: Divided Berlin](https://digitalscholarship.blogs.brynmawr.edu/2025/04/25/)hiring-summer-dspas-for-modeling-a-divided-berlin-project/
-  - [Makerspace Internship](https://brynmawr.studentemployment.ngwebsolutions.com/jobxJobdetailPrint.aspx?JobId=3790&win=True)
+- Rubric update: [Final Project assignment](../assignments/final-project)
 - Presentations for Thursday:
   - 5 minute overview
   - A question you want feedback on
   - Email me links any links you'd like to share before class
+- Summer jobs still open: 
+  - [Digital Scholarship Project Assistant: Divided Berlin](https://digitalscholarship.blogs.brynmawr.edu/2025/04/25/)hiring-summer-dspas-for-modeling-a-divided-berlin-project/
+  - [Makerspace Internship](https://brynmawr.studentemployment.ngwebsolutions.com/jobxJobdetailPrint.aspx?JobId=3790&win=True)
 
 ## Workshopping
 
