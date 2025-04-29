@@ -8,10 +8,11 @@
   - [CSS Diner](https://flukeout.github.io/)
   - Self-paced interactive [CSS tutorial](https://www.w3schools.com/css/) from w3schools.com
   - LinkedIn Learning: [CSS Essential Training](https://www.linkedin.com/learning/css-essential-training-3/) (4h 28m)
-  - Templates and models
-    - [html5up](https://html5up.net/)
-    - [css zen garden](http://www.csszengarden.com/)
+- Templates and models
+  - [html5up](https://html5up.net/)
+  - [css zen garden](http://www.csszengarden.com/)
   - [Alice's sample website code](https://github.com/hist105b/html-css/) with links to specific sections of the CSS tutorial.
 - Deployment
   - [GitHub Pages DSRI Tutorial]([Github Pages (DSRI)](https://github.com/tri-cods/github-pages))
+  - [Deployment guide for GitHub Pages](deployment)
   - Domain of One's Own [AskAthena articles](https://askathena.brynmawr.edu/help/domain-of-ones-own)
