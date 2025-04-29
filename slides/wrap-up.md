@@ -24,7 +24,7 @@ Please submit your responses [on Moodle](https://moodle.brynmawr.edu/mod/assign/
   - A question you want feedback on
   - Email me links any links you'd like to share before class
 - Summer jobs still open: 
-  - [Digital Scholarship Project Assistant: Divided Berlin](https://digitalscholarship.blogs.brynmawr.edu/2025/04/25/)hiring-summer-dspas-for-modeling-a-divided-berlin-project/
+  - [Digital Scholarship Project Assistant: Divided Berlin](https://digitalscholarship.blogs.brynmawr.edu/2025/04/25/hiring-summer-dspas-for-modeling-a-divided-berlin-project/)
   - [Makerspace Internship](https://brynmawr.studentemployment.ngwebsolutions.com/jobxJobdetailPrint.aspx?JobId=3790&win=True)
 
 ## Workshopping
