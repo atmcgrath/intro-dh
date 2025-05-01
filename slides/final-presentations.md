@@ -19,7 +19,7 @@
 - [Anchoresses in Medieval Manuscripts: Visual Essay ](https://www.exhibit.so/exhibits/swG7Rldlar6FXm6YKH3Z), by Lily Petteway
 - [Scrapbooking Bryn Mawr: A 1910s Snapshot](https://www.exhibit.so/exhibits/CX5GjKlnLnZR4BasVMdN) by Chloe Sun 
 - [Data Essay: The Investiture Analyzed](https://ryinsilverfish.github.io/data-essay-danna/) by Danna Zhang
-- [Nadav's Data Essay](https://nadavgiladmuth.github.io/DataEssay/) by Nadav Gilad Muth
+- [Nadav's Data Essay](https://nadavgiladmuth.github.io/DataEssay/) by Nadav Gilad-Muth
 
 
 
