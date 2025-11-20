@@ -1,24 +1,9 @@
-"Digital Humanities" includes a variety of ways that computers can be used to explore, analyze, and publish human histories and cultural objects (literature, art, music, and more), as well as the study of computer technologies through humanistic frameworks. This course will provide a general introduction to digital humanities through a combination of reading, discussion, and hands-on digital making. We will begin with digital publication and digitization (multi-modal scholarship, digital collections, creative coding, immersive/3D models, and more) by discussing examples and building our own small-scale projects. We will ask: how can understanding and situating the digital infrastructures we inhabit every day help us imagine new ones? Then we will turn towards humanities data: how are cultural objects represented digitally, and how can computational analysis methods provide insights? What are the limitations and possibilities of these data-centered approaches? Assignments will include visual essays, simple websites, and data visualization; students will learn to work in command line, Python, and HTML, among other digital skills. 
+"Digital Humanities" includes a variety of ways that computers can be used to explore, analyze, and publish human histories and cultural objects (literature, art, music, and more), as well as the study of computer technologies through humanistic frameworks. This course will provide a general introduction to digital humanities through a combination of reading, discussion, and hands-on digital making. We will seek to understand and critically assess digital infrastructures, how culture are represented and analyzed computationally, and the limits and possibilities of data-centric approaches for humanities scholarship.
 
+## Schedule
 
-Office Hours: Fridays 1-3 or by appointment
+[See syllabus](syllabus.md) for full schedule with readings
 
-## Resources
-
-- [Digital Publishing best practices](resources/digital-publishing)
-- [Web development resources](resources/web.md)
-- [Installation guide](resources/installation.md)
-- [Markdown guide](resources/markdown-guide.md)
-- [Deployment guide](resources/deployment.md)
-- Slides:
-  - [Data Visualization pt. 1](slides/data-viz-1.html)
-  - [Data Visualization pt. 2](slides/data-viz-2.html)
-  - [Text Analysis](slides/text-analysis.html)
-  - [Generative AI](slides/gen-ai.html)
-
-## Short schedule
-
-[See full schedule with readings](schedule.md) or navigate to the page for each week
 - DH Basics
   - [Week 1: What is Digital Humanities?](wk/01)
   	- Tuesday, January 21: Defining DH
@@ -74,4 +59,27 @@ Office Hours: Fridays 1-3 or by appointment
 	- Thursday, May 1: Presentations
 	- [**Final project or portfolio due Wednesday, May 7**](assignments/final-project)
 
+## Assignments
 
+
+| Assignment                 | Worth | Due  | Notes                                                                                                                                                                                               |
+| -------------------------- | ----- | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Participation              | 20%   | --   | Includes attendance, discussion participation, and weekly short responses                                                                                                                           |
+| [Project review](assignments/review)             | 10%   | 1/31 | A short analysis and review of a Digital Humanities project                                                                                                                                         |
+| [Website](assignments/website)                    | 10%   | 2/14 | A simple static website                                                                                                                                                                             |
+| [Data story](assignments/data-essay)                | 15%   | 3/28 | A data visualization with context                                                                                                                                                                   |
+| [Visual essay](assignments/visual-essay)               | 15%   | 4/18  | A mini-exhibit featuring primary sources and commentary                                                                                                                                             |
+| [Final project or portfolio](assignments/final-project) | 30%   | 5/7  | **Option A**: a published digital humanities project on a topic or format of your choice. **Option B**: a portfolio site collecting revised assignments and responses, including a self-assessment. |
+
+## Resources
+
+- [Digital Publishing best practices](resources/digital-publishing)
+- [Web development resources](resources/web.md)
+- [Installation guide](resources/installation.md)
+- [Markdown guide](resources/markdown-guide.md)
+- [Deployment guide](resources/deployment.md)
+- Slides:
+  - [Data Visualization pt. 1](slides/data-viz-1.html)
+  - [Data Visualization pt. 2](slides/data-viz-2.html)
+  - [Text Analysis](slides/text-analysis.html)
+  - [Generative AI](slides/gen-ai.html)
