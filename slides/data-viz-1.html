@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <title>Data Visualization</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@^5/dist/reset.css">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@^5/dist/reveal.css">
+  <style>
+    .reveal .sourceCode {  /* see #7635 */
+      overflow: visible;
+    }
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@^5/dist/theme/black.css" id="theme">
+  <link rel="stylesheet" href="https://alicemcgrath.digital.brynmawr.edu/pres/a3.css"/>
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide">
+  <h1 class="title">Data Visualization</h1>
+</section>
+
+<section id="data-visualization" class="slide level1">
+<h1>Data Visualization</h1>
+<p><img alt="Warming stripes" src="https://www.science.smith.edu/climatelit/wp-content/uploads/sites/97/2021/08/Plain-Global-1850-2020-1-624x351.png" width="75%"></p>
+<p>Alice McGrath | 25 February 2025</p>
+</section>
+<section id="overview" class="slide level1">
+<h1>Overview</h1>
+<ol type="1">
+<li>Discussion of the readings</li>
+<li>Reviewing examples</li>
+<li>What makes a good data viz?</li>
+</ol>
+</section>
+<section id="readings-discussion" class="slide level1">
+<h1>Readings &amp; discussion</h1>
+</section>
+<section id="data-x-design" class="slide level1">
+<h1><a href="https://dataxdesign.io/chapters/intro">Data X
+Design</a></h1>
+<figure>
+<img data-src="media/playfair-shanawdithit.png"
+alt="Two nineteenth-century data visualizations" />
+<figcaption aria-hidden="true">Two nineteenth-century data
+visualizations</figcaption>
+</figure>
+<p><small>Visualzations by <a
+href="https://en.wikipedia.org/wiki/William_Playfair">William
+Playfair</a> (left) and <a
+href="https://en.wikipedia.org/wiki/Shanawdithit">Shanawdithit</a>
+(right), from Data x Design, Introduction</small></p>
+<h2
+id="introduction-a-counterhistory-of-data-visulization">“Introduction: A
+Counterhistory of Data Visulization”</h2>
+<ul>
+<li>What is important about the visual &amp; digital form of this
+chapter?</li>
+<li>Why does it matter which examples we use to tell the history of data
+visualization?</li>
+</ul>
+</section>
+<section id="data-humanism" class="slide level1">
+<h1>Data Humanism</h1>
+<p>Giorgia Lupi: <a
+href="https://giorgialupi.com/data-humanism-my-manifesto-for-a-new-data-wold">“The
+Revolution will be Visualized”</a></p>
+<figure>
+<img
+data-src="https://images.squarespace-cdn.com/content/v1/550de105e4b05c49fa2bba03/1532010285164-6Y4L8YI7NCD15NDX54IS/datahumanism.jpeg?format=2500w"
+alt="Data Humanism" />
+<figcaption aria-hidden="true">Data Humanism</figcaption>
+</figure>
+<p><a
+href="https://giorgialupi.com/data-humanism-my-manifesto-for-a-new-data-wold">Data
+Humanism, a visual manifesto</a>, by Giorgia Lupi</p>
+<h2 id="what-makes-data-human">What makes data “human”?</h2>
+<p>What about “humanistic”?</p>
+</section>
+<section id="visualization-examples" class="slide level1">
+<h1>Visualization examples</h1>
+</section>
+<section id="ex.-1-warming-stripes" class="slide level1">
+<h1>Ex. 1 <a
+href="https://bpb-eu-w2.wpmucdn.com/blogs.reading.ac.uk/dist/3/187/files/2018/05/globalcore.png">Warming
+Stripes</a></h1>
+<figure>
+<img
+data-src="https://www.science.smith.edu/climatelit/wp-content/uploads/sites/97/2021/08/Plain-Global-1850-2020-1-624x351.png"
+alt="Data viz with red and blue stripes" />
+<figcaption aria-hidden="true">Data viz with red and blue
+stripes</figcaption>
+</figure>
+<p><small>Ed Hawkins, University of Reading, 2018. See also this <a
+href="https://showyourstripes.info/s/globe">interactive version here</a>
+or read more about its <a
+href="https://nightingaledvs.com/making-the-growing-influence-of-the-warming-stripes/">growing
+influence</a></small></p>
+</section>
+<section class="slide level1">
+
+<ul>
+<li>What’s the message of this viz?</li>
+<li>Why is this effective?</li>
+</ul>
+</section>
+<section id="ex.-2-wealth-shown-to-scale" class="slide level1">
+<h1>Ex. 2: Wealth, shown to scale</h1>
+<figure>
+<img data-src="media/wealth-to-scale.png"
+alt="screengrab of wealth viz" />
+<figcaption aria-hidden="true">screengrab of wealth viz</figcaption>
+</figure>
+<p><small>Matt Korostoff (2021); NB: the original version (<a
+href="https://github.com/MKorostoff/1-pixel-wealth">MKorostoff/1-pixel-wealth</a>)
+is no longer available, this adaptation by Omar A. Douglass is pretty
+close: <a
+href="https://oadouglas.github.io/Wealth-To-Scale-Adapted-For-Classroom/">Wealth
+To Scale, adapted for classroom</a>. Various other <a
+href="https://github.com/ave-uhhh/billionaires_to_scale?tab=readme-ov-file">translations
+and adaptations are available here</a>.</small></p>
+</section>
+<section id="ex.-3-dunhams-data" class="slide level1">
+<h1>Ex. 3: <a
+href="https://visualizations.dunhamsdata.org/1947-60personnelflow/">Dunham’s
+Data</a></h1>
+<p><a
+href="https://dunhamsdata.org/portfolio/visualizations/interactive-flow-katherine-dunhams-dancers-drummers-and-singers-check-ins">Interactive
+Flow of Katherine Dunham’s Dancers, Drummers, and Singers (2019)</a></p>
+<ul>
+<li><p>Read about the Dunham’s Data project: <a
+href="https://dunhamsdata.org/">dunhamsdata.org</a></p></li>
+<li><p>See also: <a
+href="https://www.cambridge.org/core/journals/the-drama-review/article/visceral-data-for-dance-histories/72623D4392C448812C21E3EFDDC9FC69">“Visceral
+Data for Dance Histories: Katherine Dunham’s People, Places, and
+Pieces”</a>, Harmony Bench and Kate Elswit, <em>The Drama Review</em>
+66.1 (March 2022)</p></li>
+</ul>
+</section>
+<section id="ex.-4-reach-of-racism" class="slide level1">
+<h1>Ex. 4: Reach of Racism</h1>
+<figure>
+<img data-src="media/punishing-reach.png"
+alt="screenshot of punishing reach viz" />
+<figcaption aria-hidden="true">screenshot of punishing reach
+viz</figcaption>
+</figure>
+<p><small>NY Times: <a
+href="https://www.nytimes.com/interactive/2018/03/19/upshot/race-class-white-and-black-men.html?mtrref=search.brave.com&amp;assetType=PAYWALL">Extensive
+Data Shows Punishing Reach of Racism for Black Boys</a>
+(3/19/2018)</small></p>
+</section>
+<section class="slide level1">
+
+<ul>
+<li>NB: url is paywalled - <a
+href="https://guides.tricolib.brynmawr.edu/nytimes-BMC">see access
+instructions here</a>.</li>
+<li>See also: more info about the <a
+href="https://opportunityinsights.org/paper-category/race/">study by
+Opportunity Insights that developed the data</a></li>
+</ul>
+</section>
+<section id="w.e.b.-du-bois-data-portraits" class="slide level1">
+<h1>W.E.B. Du Bois: Data Portraits</h1>
+<p><img src="https://dataxdesign.io/images/dubois/884.webp" alt="valuation of taxable property" width="40%"></p>
+<p><small>Chart from Du Bois’s 1900 “The Exhibition of American
+Negroes,” featured in <a
+href="https://dataxdesign.io/chapters/dubois">Data by Design
+ch. 5</a></small></p>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><p>Library of Congress: <a
+href="https://www.loc.gov/pictures/item/2005679642/">Charts and graphs
+showing the condition of African Americans at the turn of the century
+exhibited at the Paris Expositions Universelle in 1900</a></p></li>
+<li><p>Blog post about the exposition by Ellen Terrell: <a
+href="https://blogs.loc.gov/inside_adams/2015/02/du-bois-in-paris-exposition-universelle-1900/">“Du
+Bois in Paris”</a></p></li>
+<li><p>Rusert and Battle-Baptiste, <em>W.E.B. Du Bois’s data portraits:
+visualizing Black America</em> (Princeton Architectural Press,
+2018)</p></li>
+<li><p>The <a
+href="https://www.kaggle.com/datasets/paultimothymooney/dubois-data-portrait-challenge">Du
+Bois Data Portrait Challenge</a>, an effort to recreate these
+visualizations using contemporary tools</p></li>
+<li><p>See also <a
+href="https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge">the
+data on their github repository</a></p></li>
+</ul>
+</section>
+<section id="other-examples" class="slide level1">
+<h1>Other examples</h1>
+<ul>
+<li><p>Physicalizations and Visualizations from the “Energy Afterlives”
+360: in Dalton Hall and <a
+href="https://jvergara.digital.brynmawr.edu/scalarexhibitions/con/coil-oil-nuclear-energy-extraction/data-physicalizations-and-visualizations-1">on
+the Scalar site</a></p></li>
+<li><p><a href="https://the-shape-of-dreams.com/#/">The Shape of Dreams
+(Google Trends)</a>, Federica Fragapane, 2020.</p>
+<ul>
+<li>Medium post: <a
+href="https://medium.com/@frcfr/visualizing-the-shape-of-dreams-for-google-trends-5164c3c4e382">Visualizing
+the Shape of Dreams</a></li>
+</ul></li>
+</ul>
+</section>
+<section id="questions-to-ask" class="slide level1">
+<h1>Questions to ask</h1>
+<ul>
+<li>How does it affect you? Why?</li>
+<li>What message is it trying to communicate?</li>
+<li>What questions does it raise?</li>
+</ul>
+</section>
+<section id="what-makes-a-good-data-viz" class="slide level1">
+<h1>What makes a good data viz?</h1>
+</section>
+<section id="inspiration" class="slide level1">
+<h1>Inspiration</h1>
+<ul>
+<li>For choosing visualizations: <a
+href="https://www.data-to-viz.com/">From Data to Viz</a></li>
+<li><a href="http://www.dear-data.com/theproject">Dear Data project</a>,
+Georgia Lupi &amp; Stefanie Posavec</li>
+<li>Winners of the <a
+href="https://www.informationisbeautifulawards.com/">Information is
+Beautiful Awards</a></li>
+<li>Use your imagination! Draw your visualization on paper.</li>
+</ul>
+</section>
+<section id="correlation-is-not-causation" class="slide level1">
+<h1>Correlation is not causation</h1>
+<figure>
+<img data-src="media/nic-cage-pool-drowning.png" alt="cage pool viz" />
+<figcaption aria-hidden="true">cage pool viz</figcaption>
+</figure>
+<p>See other <a
+href="https://www.tylervigen.com/spurious-correlations">Spurious
+Correlations</a>, by Tyler Vigen.</p>
+</section>
+<section class="slide level1">
+
+<p><a href="https://atmcgrath.github.io/intro-dh/wk/06.html">Return to
+wk 6</a></p>
+</section>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/reveal.js@^5/dist/reveal.js"></script>
+
+  <!-- reveal.js plugins -->
+  <script src="https://unpkg.com/reveal.js@^5/plugin/notes/notes.js"></script>
+  <script src="https://unpkg.com/reveal.js@^5/plugin/search/search.js"></script>
+  <script src="https://unpkg.com/reveal.js@^5/plugin/zoom/zoom.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+        // Display controls in the bottom right corner
+        controls: true,
+
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: true,
+
+        // Determines where controls appear, "edges" or "bottom-right"
+        controlsLayout: 'bottom-right',
+
+        // Visibility rule for backwards navigation arrows; "faded", "hidden"
+        // or "visible"
+        controlsBackArrows: 'faded',
+
+        // Display a presentation progress bar
+        progress: true,
+
+        // Display the page number of the current slide
+        slideNumber: true,
+
+        // 'all', 'print', or 'speaker'
+        showSlideNumber: 'all',
+
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: true,
+
+        // Start with 1 for the hash rather than 0
+        hashOneBasedIndex: false,
+
+        // Flags if we should monitor the hash and change slides accordingly
+        respondToHashChanges: true,
+
+        // Push each slide change to the browser history
+        history: false,
+
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+
+        // Enable the slide overview mode
+        overview: true,
+
+        // Disables the default reveal.js slide layout (scaling and centering)
+        // so that you can use custom CSS layout
+        disableLayout: false,
+
+        // Vertical centering of slides
+        center: true,
+
+        // Enables touch navigation on devices with touch input
+        touch: true,
+
+        // Loop the presentation
+        loop: false,
+
+        // Change the presentation direction to be RTL
+        rtl: false,
+
+        // see https://revealjs.com/vertical-slides/#navigation-mode
+        navigationMode: 'default',
+
+        // Randomizes the order of slides each time the presentation loads
+        shuffle: false,
+
+        // Turns fragments on and off globally
+        fragments: true,
+
+        // Flags whether to include the current fragment in the URL,
+        // so that reloading brings you to the same fragment position
+        fragmentInURL: true,
+
+        // Flags if the presentation is running in an embedded mode,
+        // i.e. contained within a limited portion of the screen
+        embedded: false,
+
+        // Flags if we should show a help overlay when the questionmark
+        // key is pressed
+        help: true,
+
+        // Flags if it should be possible to pause the presentation (blackout)
+        pause: true,
+
+        // Flags if speaker notes should be visible to all viewers
+        showNotes: false,
+
+        // Global override for autoplaying embedded media (null/true/false)
+        autoPlayMedia: null,
+
+        // Global override for preloading lazy-loaded iframes (null/true/false)
+        preloadIframes: null,
+
+        // Number of milliseconds between automatically proceeding to the
+        // next slide, disabled when set to 0, this value can be overwritten
+        // by using a data-autoslide attribute on your slides
+        autoSlide: 0,
+
+        // Stop auto-sliding after user input
+        autoSlideStoppable: true,
+
+        // Use this method for navigation when auto-sliding
+        autoSlideMethod: null,
+
+        // Specify the average time in seconds that you think you will spend
+        // presenting each slide. This is used to show a pacing timer in the
+        // speaker view
+        defaultTiming: null,
+
+        // Enable slide navigation via mouse wheel
+        mouseWheel: false,
+
+        // The display mode that will be used to show slides
+        display: 'block',
+
+        // Hide cursor if inactive
+        hideInactiveCursor: true,
+
+        // Time before the cursor is hidden (in ms)
+        hideCursorTime: 5000,
+
+        // Opens links in an iframe preview overlay
+        previewLinks: false,
+
+        // Transition style (none/fade/slide/convex/concave/zoom)
+        transition: 'slide',
+
+        // Transition speed (default/fast/slow)
+        transitionSpeed: 'default',
+
+        // Transition style for full page slide backgrounds
+        // (none/fade/slide/convex/concave/zoom)
+        backgroundTransition: 'fade',
+
+        // Number of slides away from the current that are visible
+        viewDistance: 3,
+
+        // Number of slides away from the current that are visible on mobile
+        // devices. It is advisable to set this to a lower number than
+        // viewDistance in order to save resources.
+        mobileViewDistance: 2,
+
+        // reveal.js plugins
+        plugins: [
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
+        ]
+      });
+    </script>
+    </body>
+</html>

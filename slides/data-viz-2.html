@@ -15,15 +15,26 @@
     .reveal .sourceCode {  /* see #7635 */
       overflow: visible;
     }
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
-  <link rel="stylesheet" href="https://unpkg.com/reveal.js@^5//dist/theme/night.css" id="theme">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@^5/dist/theme/black.css" id="theme">
   <link rel="stylesheet" href="https://alicemcgrath.digital.brynmawr.edu/pres/a3.css"/>
 </head>
 <body>
@@ -207,7 +218,6 @@ data using paper and markers</li>
 </section>
 <section id="discussion" class="slide level2">
 <h2>Discussion</h2>
-<div>
 <ul>
 <li class="fragment">Share out your visualizations and explain your
 vision.</li>
@@ -216,7 +226,6 @@ this process?</li>
 <li class="fragment">What context or additional data would you want to
 bring in if you were building a data story or data essay?</li>
 </ul>
-</div>
 </section>
 <section id="resources" class="slide level2">
 <h2>Resources</h2>
@@ -224,12 +233,12 @@ bring in if you were building a data story or data essay?</li>
     </div>
   </div>
 
-  <script src="https://unpkg.com/reveal.js@^5//dist/reveal.js"></script>
+  <script src="https://unpkg.com/reveal.js@^5/dist/reveal.js"></script>
 
   <!-- reveal.js plugins -->
-  <script src="https://unpkg.com/reveal.js@^5//plugin/notes/notes.js"></script>
-  <script src="https://unpkg.com/reveal.js@^5//plugin/search/search.js"></script>
-  <script src="https://unpkg.com/reveal.js@^5//plugin/zoom/zoom.js"></script>
+  <script src="https://unpkg.com/reveal.js@^5/plugin/notes/notes.js"></script>
+  <script src="https://unpkg.com/reveal.js@^5/plugin/search/search.js"></script>
+  <script src="https://unpkg.com/reveal.js@^5/plugin/zoom/zoom.js"></script>
 
   <script>
 
