@@ -63,14 +63,10 @@ See [course syllabus syllabus](syllabus.md) for full schedule with readings
 
 ### Assignments
 
-| Assignment                 | Worth | Due  | Notes                                                                                                                                                                                               |
-| -------------------------- | ----- | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Participation              | 20%   | --   | Includes attendance, discussion participation, and weekly short responses                                                                                                                           |
-| [Project review](assignments/review)             | 10%   | 1/31 | A short analysis and review of a Digital Humanities project                                                                                                                                         |
-| [Website](assignments/website)                    | 10%   | 2/14 | A simple static website                                                                                                                                                                             |
-| [Data story](assignments/data-essay)                | 15%   | 3/28 | A data visualization with context                                                                                                                                                                   |
-| [Visual essay](assignments/visual-essay)               | 15%   | 4/18  | A mini-exhibit featuring primary sources and commentary                                                                                                                                             |
-| [Final project or portfolio](assignments/final-project) | 30%   | 5/7  | **Option A**: a published digital humanities project on a topic or format of your choice. **Option B**: a portfolio site collecting revised assignments and responses, including a self-assessment. |
+- [Project review](assignments/review): A short analysis and review of a Digital Humanities project         
+- [Website](assignments/website): A simple static website                                                                        - [Data story](assignments/data-essay): A data visualization with context                                                                        - [Visual essay](assignments/visual-essay): A mini-exhibit featuring primary sources and commentary                                                                     - [Final project or portfolio](assignments/final-project)
+  - **Option A**: a published digital humanities project on a topic or format of your choice. 
+  - **Option B**: a portfolio site collecting revised assignments and responses, including a self-assessment. |
 
 ### Resources
 
