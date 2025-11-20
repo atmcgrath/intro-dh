@@ -1,3 +1,6 @@
+"Digital Humanities" includes a variety of ways that computers can be used to explore, analyze, and publish human histories and cultural objects (literature, art, music, and more), as well as the study of computer technologies through humanistic frameworks. This course will provide a general introduction to digital humanities through a combination of reading, discussion, and hands-on digital making. We will begin with digital publication and digitization (multi-modal scholarship, digital collections, creative coding, immersive/3D models, and more) by discussing examples and building our own small-scale projects. We will ask: how can understanding and situating the digital infrastructures we inhabit every day help us imagine new ones? Then we will turn towards humanities data: how are cultural objects represented digitally, and how can computational analysis methods provide insights? What are the limitations and possibilities of these data-centered approaches? Assignments will include visual essays, simple websites, and data visualization; students will learn to work in command line, Python, and HTML, among other digital skills. 
+
+
 Office Hours: Fridays 1-3 or by appointment
 
 ## Resources
