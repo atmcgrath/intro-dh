@@ -1,8 +1,10 @@
-"Digital Humanities" includes a variety of ways that computers can be used to explore, analyze, and publish human histories and cultural objects (literature, art, music, and more), as well as the study of computer technologies through humanistic frameworks. This course will provide a general introduction to digital humanities through a combination of reading, discussion, and hands-on digital making. We will seek to understand and critically assess digital infrastructures, how culture are represented and analyzed computationally, and the limits and possibilities of data-centric approaches for humanities scholarship.
+## About
 
-## Schedule
+This course provides a general introduction to digital humanities through a combination of reading, discussion, and hands-on digital making. "Digital Humanities" describes a range of ways that computers are used to explore, analyze, and publish human histories and cultural objects (literature, art, music, and more), as well as the study of digital technologies through humanistic frameworks. We will seek to understand and critically assess digital infrastructures, how culture are represented and analyzed computationally, and the limits and possibilities of data-centric approaches for humanities scholarship, while building core digital competencies.
 
-[See syllabus](syllabus.md) for full schedule with readings
+### Schedule
+
+See [course syllabus syllabus](syllabus.md) for full schedule with readings
 
 - DH Basics
   - [Week 1: What is Digital Humanities?](wk/01)
@@ -59,8 +61,7 @@
 	- Thursday, May 1: Presentations
 	- [**Final project or portfolio due Wednesday, May 7**](assignments/final-project)
 
-## Assignments
-
+### Assignments
 
 | Assignment                 | Worth | Due  | Notes                                                                                                                                                                                               |
 | -------------------------- | ----- | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -71,7 +72,7 @@
 | [Visual essay](assignments/visual-essay)               | 15%   | 4/18  | A mini-exhibit featuring primary sources and commentary                                                                                                                                             |
 | [Final project or portfolio](assignments/final-project) | 30%   | 5/7  | **Option A**: a published digital humanities project on a topic or format of your choice. **Option B**: a portfolio site collecting revised assignments and responses, including a self-assessment. |
 
-## Resources
+### Resources
 
 - [Digital Publishing best practices](resources/digital-publishing)
 - [Web development resources](resources/web.md)
