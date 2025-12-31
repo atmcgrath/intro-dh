@@ -4,7 +4,7 @@ This course provides a general introduction to digital humanities through a comb
 
 ### Schedule
 
-See [course syllabus syllabus](syllabus.md) for full schedule with readings
+See the [course syllabus](syllabus.md) for a complete schedule with readings, policies, and other details.
 
 
 | 1    | DH Basics                                |                                                    |
